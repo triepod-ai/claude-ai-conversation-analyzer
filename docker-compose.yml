@@ -1,0 +1,63 @@
+# Claude AI Conversation Analyzer - Portfolio Docker Compose Configuration
+version: '3.8'
+
+services:
+  # Main application
+  claude-ai-analyzer:
+    build: .
+    container_name: claude-ai-conversation-analyzer
+    ports:
+      - "5000:5000"
+    environment:
+      - FLASK_ENV=production
+      - FLASK_APP=demo/app.py
+      - CHROMA_HOST=chroma
+      - CHROMA_PORT=8000
+    volumes:
+      - ./data:/app/data:ro
+      - ./logs:/app/logs
+    depends_on:
+      - chroma
+    restart: unless-stopped
+    networks:
+      - claude-ai-analyzer-network
+
+  # Vector database (optional for full deployment)
+  chroma:
+    image: chromadb/chroma:latest
+    container_name: claude-ai-analyzer-chroma
+    ports:
+      - "8000:8000"
+    environment:
+      - CHROMA_SERVER_AUTH_CREDENTIALS_FILE=/chroma/auth/credentials
+      - CHROMA_SERVER_AUTH_CREDENTIALS_PROVIDER=chromadb.auth.providers.HtpasswdFileServerAuthCredentialsProvider
+      - CHROMA_SERVER_AUTH_PROVIDER=chromadb.auth.basic.BasicAuthServerProvider
+    volumes:
+      - chroma-data:/chroma/chroma
+      - ./docker/chroma-auth:/chroma/auth:ro
+    restart: unless-stopped
+    networks:
+      - claude-ai-analyzer-network
+
+  # Nginx reverse proxy (production deployment)
+  nginx:
+    image: nginx:alpine
+    container_name: claude-ai-analyzer-nginx
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - ./docker/nginx.conf:/etc/nginx/nginx.conf:ro
+      - ./docker/ssl:/etc/nginx/ssl:ro
+    depends_on:
+      - claude-ai-analyzer
+    restart: unless-stopped
+    networks:
+      - claude-ai-analyzer-network
+
+volumes:
+  chroma-data:
+
+networks:
+  claude-ai-analyzer-network:
+    driver: bridge

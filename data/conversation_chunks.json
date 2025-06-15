@@ -1,0 +1,3232 @@
+[
+  {
+    "id": "1186836e-6516-4754-9076-a23da0aa8393",
+    "conversation_id": "0b389973-42f5-4778-85be-6babe0908f0d",
+    "conversation_title": "Demo Conversation: Data Analytics",
+    "chunk_index": 0,
+    "content": "Data warehouse optimization reduces query response times and improves efficiency. Performance benchmarking shows substantial improvements over previous implementations. Machine learning models identify anomalies and patterns in large datasets. Customer segmentation analysis reveals distinct user groups and preferences. Performance benchmarking shows substantial improvements over previous implementations. Business intelligence tools enable self-service analytics for stakeholders. ETL pipeline processing ensures clean, consistent data for analysis workflows. Reporting dashboard visualizes critical business metrics in real-time. Predictive analytics models forecast future trends with high accuracy rates. Customer segmentation analysis reveals distinct u",
+    "category": "data_analytics",
+    "project_name": "Demo Project Delta",
+    "participants": 5,
+    "complexity_score": 0.41,
+    "created_date": "2025-04-25T16:31:56.707311",
+    "chunk_length": 760,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.095953",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 19
+    }
+  },
+  {
+    "id": "6d607ddc-0664-4c4d-8386-136bbfdae8c4",
+    "conversation_id": "9c4e69d3-8686-4ee4-b2b5-9d7a8c3b1e42",
+    "conversation_title": "Demo Conversation: Performance Optimization",
+    "chunk_index": 0,
+    "content": "Performance profiling identified bottlenecks in database query execution patterns. Load testing reveals system capacity limits and scaling requirements. Memory optimization strategies eliminated memory leaks and reduced resource consumption. Memory optimization strategies eliminated memory leaks and reduced resource consumption. Memory optimization strategies eliminated memory leaks and reduced resource consumption. Performance benchmarking establishes baseline metrics for continuous improvement. Performance profiling identified bottlenecks in database query execution patterns. Code optimization techniques improved throughput while maintaining functionality. Performance profiling identified bottlenecks in database query execution patterns.",
+    "category": "performance_optimization",
+    "project_name": "Demo Project Gamma",
+    "participants": 2,
+    "complexity_score": 0.39,
+    "created_date": "2024-09-09T16:31:56.707369",
+    "chunk_length": 749,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.095980",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 16
+    }
+  },
+  {
+    "id": "385da175-578a-43ff-80d6-f8988623f191",
+    "conversation_id": "9c4e69d3-8686-4ee4-b2b5-9d7a8c3b1e42",
+    "conversation_title": "Demo Conversation: Performance Optimization",
+    "chunk_index": 1,
+    "content": "Optimization strategies balance performance improvements with code maintainability. Memory optimization strategies eliminated memory leaks and reduced resource consumption. Network optimization reduces latency and improves user experience significantly. Performance benchmarking establishes baseline metri",
+    "category": "performance_optimization",
+    "project_name": "Demo Project Gamma",
+    "participants": 2,
+    "complexity_score": 0.39,
+    "created_date": "2024-09-09T16:31:56.707369",
+    "chunk_length": 305,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.095985",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 16
+    }
+  },
+  {
+    "id": "fb358ecc-dfb0-410d-aed6-fad2de137cbe",
+    "conversation_id": "b0abef68-9033-47ad-a71e-8d28e88c950a",
+    "conversation_title": "Demo Conversation: Business Analysis",
+    "chunk_index": 0,
+    "content": "Product roadmap alignment with customer needs is critical for long-term success. Budget planning must account for scalability requirements and infrastructure costs. Strategic partnerships could accelerate market entry and reduce development overhead. Strategic partnerships could accelerate market entry and reduce development overhead. ROI projections show positive returns within 18 months if we maintain current development pace. Product roadmap alignment with customer needs is critical for long-term success. The cost-benefit analysis suggests focusing on core functionality first before expanding to advanced features. Based on the stakeholder feedback, we should prioritize features that deliver immediate business value.",
+    "category": "business_analysis",
+    "project_name": "Demo Project Alpha",
+    "participants": 2,
+    "complexity_score": 0.73,
+    "created_date": "2024-09-09T16:31:56.707384",
+    "chunk_length": 728,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.095994",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 7
+    }
+  },
+  {
+    "id": "dcc1bf12-3746-433d-a4bd-33319bc94514",
+    "conversation_id": "b0abef68-9033-47ad-a71e-8d28e88c950a",
+    "conversation_title": "Demo Conversation: Business Analysis",
+    "chunk_index": 1,
+    "content": "Customer feedback emphasizes the need for intuitive interfaces and streamlined workflows. Quality assurance processes should be strengthened to maintain high customer satisfaction. Resource allocation should balance feature development with technical debt reduction. Budget planning must account for scalability requirements and infrastructure costs. Risk assessment highlights the importance of robust da",
+    "category": "business_analysis",
+    "project_name": "Demo Project Alpha",
+    "participants": 2,
+    "complexity_score": 0.73,
+    "created_date": "2024-09-09T16:31:56.707384",
+    "chunk_length": 405,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.095998",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 7
+    }
+  },
+  {
+    "id": "18c7530b-e677-4af6-b457-c606c7be814b",
+    "conversation_id": "2cc9a156-96e8-4e99-b504-423eb79be43a",
+    "conversation_title": "Demo Conversation: Strategic Planning",
+    "chunk_index": 0,
+    "content": "Competitive positioning analysis identifies opportunities for market differentiation. Performance measurement systems track progress toward strategic objectives. Change management ensures smooth transition during organizational transformations. Investment priorities reflect both immediate needs and long-term strategic goals. Investment priorities reflect both immediate needs and long-term strategic goals. Innovation roadmap balances cutting-edge research with practical implementation needs. Risk management framework addresses potential challenges and mitigation strategies. Change management ensures smooth transition during organizational transformations. Competitive positioning analysis identifies opportunities for market differentiation.",
+    "category": "strategic_planning",
+    "project_name": "Demo Project Beta",
+    "participants": 4,
+    "complexity_score": 0.81,
+    "created_date": "2024-09-02T16:31:56.707398",
+    "chunk_length": 748,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096004",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 5
+    }
+  },
+  {
+    "id": "f1270a16-3931-46e9-9516-5bd385ac23cf",
+    "conversation_id": "2cc9a156-96e8-4e99-b504-423eb79be43a",
+    "conversation_title": "Demo Conversation: Strategic Planning",
+    "chunk_index": 1,
+    "content": "Digital transformation initiatives modernize legacy systems and proces",
+    "category": "strategic_planning",
+    "project_name": "Demo Project Beta",
+    "participants": 4,
+    "complexity_score": 0.81,
+    "created_date": "2024-09-02T16:31:56.707398",
+    "chunk_length": 70,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096007",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 5
+    }
+  },
+  {
+    "id": "9645cca2-17c8-428a-8dd2-83cf847ffc2d",
+    "conversation_id": "a5c91086-c8de-44ae-bdcb-ff6b0c9ec29d",
+    "conversation_title": "Demo Conversation: Project Management",
+    "chunk_index": 0,
+    "content": "Cross-functional collaboration is essential for successful project execution. Quality gates ensure deliverables meet acceptance criteria before moving to next phase. Cross-functional collaboration is essential for successful project execution. Quality gates ensure deliverables meet acceptance criteria before moving to next phase. Resource dependencies have been mapped and contingency plans are in place. Cross-functional collaboration is essential for successful project execution. Resource dependencies have been mapped and contingency plans are in place. Cross-functional collaboration is essential for successful project execution. Documentation standards maintain knowledge sharing across distributed teams.",
+    "category": "project_management",
+    "project_name": "Demo Project Delta",
+    "participants": 4,
+    "complexity_score": 0.36,
+    "created_date": "2024-12-24T16:31:56.707407",
+    "chunk_length": 714,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096012",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 18
+    }
+  },
+  {
+    "id": "ef0b854f-ad18-4031-8fd6-622df39ff8fd",
+    "conversation_id": "a5c91086-c8de-44ae-bdcb-ff6b0c9ec29d",
+    "conversation_title": "Demo Conversation: Project Management",
+    "chunk_index": 1,
+    "content": "Risk mitigation strategies include backup resources and alternative implementation paths. Stakeholder engagement ensures alignment between business needs and technical solutions. Quality gates ensure deliverables meet acceptance criteria before moving to next phase. Stakeholder engagement ensures alignment between business needs and technical solutions. Change management processes help handle evolving requirements efficiently. Change manag",
+    "category": "project_management",
+    "project_name": "Demo Project Delta",
+    "participants": 4,
+    "complexity_score": 0.36,
+    "created_date": "2024-12-24T16:31:56.707407",
+    "chunk_length": 443,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096015",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 18
+    }
+  },
+  {
+    "id": "9971a575-6e1e-4f40-b2df-06b1e094d896",
+    "conversation_id": "0cf1adca-a022-4b7a-85ec-a7b24771f291",
+    "conversation_title": "Demo Conversation: System Architecture",
+    "chunk_index": 0,
+    "content": "Container orchestration simplifies deployment and resource management processes. Container orchestration simplifies deployment and resource management processes. The microservices architecture provides excellent scalability and maintainability benefits. Event-driven architecture enables loose coupling between system components. The microservices architecture provides excellent scalability and maintainability benefits. Database sharding strategy supports horizontal scaling requirements effectively. Service mesh provides observability, security, and traffic management features. Database sharding strategy supports horizontal scaling requirements effectively. Disaster recovery procedures ensure business continuity during system failures.",
+    "category": "system_architecture",
+    "project_name": "Demo Project Beta",
+    "participants": 5,
+    "complexity_score": 0.34,
+    "created_date": "2024-10-05T16:31:56.707418",
+    "chunk_length": 743,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096019",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 20
+    }
+  },
+  {
+    "id": "6f111d47-0076-46f5-adfa-61e7310e0cc9",
+    "conversation_id": "0cf1adca-a022-4b7a-85ec-a7b24771f291",
+    "conversation_title": "Demo Conversation: System Architecture",
+    "chunk_index": 1,
+    "content": "Security architecture implements defense-in-depth principles throughout the stack. Data architecture supports both tra",
+    "category": "system_architecture",
+    "project_name": "Demo Project Beta",
+    "participants": 5,
+    "complexity_score": 0.34,
+    "created_date": "2024-10-05T16:31:56.707418",
+    "chunk_length": 118,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096023",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 20
+    }
+  },
+  {
+    "id": "62756979-1cb4-4dec-9b39-c900ac5dba25",
+    "conversation_id": "baaf5abf-cfa9-45b4-b1e9-402870a6b872",
+    "conversation_title": "Demo Conversation: Business Analysis",
+    "chunk_index": 0,
+    "content": "Budget planning must account for scalability requirements and infrastructure costs. Market research indicates strong demand for automation capabilities in our target segment. Product roadmap alignment with customer needs is critical for long-term success. Product roadmap alignment with customer needs is critical for long-term success. Customer feedback emphasizes the need for intuitive interfaces and streamlined workflows. The cost-benefit analysis suggests focusing on core functionality first before expanding to advanced features. Resource allocation should balance feature development with technical debt reduction. ROI projections show positive returns within 18 months if we maintain current development pace.",
+    "category": "business_analysis",
+    "project_name": "Demo Project Beta",
+    "participants": 3,
+    "complexity_score": 0.38,
+    "created_date": "2025-03-29T16:31:56.707427",
+    "chunk_length": 719,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096027",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 14
+    }
+  },
+  {
+    "id": "a8747168-7571-4f95-a111-d4611453a272",
+    "conversation_id": "baaf5abf-cfa9-45b4-b1e9-402870a6b872",
+    "conversation_title": "Demo Conversation: Business Analysis",
+    "chunk_index": 1,
+    "content": "ROI projections show positive returns within 18 months if we maintain current development pace. Product roadmap alignment with customer needs is critical for long-term success. Resource allocation should balance feature development with technical debt reduction. Resource allocation should balance feature development with technical debt reduction. Market research indicat",
+    "category": "business_analysis",
+    "project_name": "Demo Project Beta",
+    "participants": 3,
+    "complexity_score": 0.38,
+    "created_date": "2025-03-29T16:31:56.707427",
+    "chunk_length": 372,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096030",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 14
+    }
+  },
+  {
+    "id": "e08c4df6-3380-45ff-8dab-2e3a0828b80d",
+    "conversation_id": "c574b59c-63de-42fa-98f2-98d575d31874",
+    "conversation_title": "Demo Conversation: Ai Ml Research",
+    "chunk_index": 0,
+    "content": "Model training convergence improved significantly after adjusting the learning rate schedule. Hyperparameter tuning using Bayesian optimization yielded 15% improvement in accuracy. Transfer learning from pre-trained models reduces training time while maintaining quality. Data preprocessing pipeline handles noise and inconsistencies in real-world datasets. Neural architecture search identified optimal network topology for our specific use case. Cross-validation results demonstrate robust performance across different data distributions. The attention mechanism effectively captures long-range dependencies in conversational data. Interpretability analysis helps understand model decision-making processes. Neural architecture search identified optimal network topology for our specific use case.",
+    "category": "ai_ml_research",
+    "project_name": "Demo Project Gamma",
+    "participants": 2,
+    "complexity_score": 0.77,
+    "created_date": "2025-03-24T16:31:56.707439",
+    "chunk_length": 799,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096033",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 8
+    }
+  },
+  {
+    "id": "fa93efce-dd29-458f-9a8f-0824fa4d9c93",
+    "conversation_id": "c574b59c-63de-42fa-98f2-98d575d31874",
+    "conversation_title": "Demo Conversation: Ai Ml Research",
+    "chunk_index": 1,
+    "content": "The attention mechanism effectively ca",
+    "category": "ai_ml_research",
+    "project_name": "Demo Project Gamma",
+    "participants": 2,
+    "complexity_score": 0.77,
+    "created_date": "2025-03-24T16:31:56.707439",
+    "chunk_length": 38,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096036",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 8
+    }
+  },
+  {
+    "id": "410585a6-a9e5-405f-95e6-dc98fdc5b169",
+    "conversation_id": "ad5a224c-2973-4478-b994-7951eb80d11f",
+    "conversation_title": "Demo Conversation: Business Analysis",
+    "chunk_index": 0,
+    "content": "The cost-benefit analysis suggests focusing on core functionality first before expanding to advanced features. Product roadmap alignment with customer needs is critical for long-term success. Strategic partnerships could accelerate market entry and reduce development overhead. Budget planning must account for scalability requirements and infrastructure costs. Market research indicates strong demand for automation capabilities in our target segment. Quality assurance processes should be strengthened to maintain high customer satisfaction. Product roadmap alignment with customer needs is critical for long-term success. Market research indicates strong deman",
+    "category": "business_analysis",
+    "project_name": "Demo Project Alpha",
+    "participants": 4,
+    "complexity_score": 0.55,
+    "created_date": "2025-03-03T16:31:56.707450",
+    "chunk_length": 663,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096039",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 13
+    }
+  },
+  {
+    "id": "043b8654-3587-44e5-ad45-c1d04e2470d6",
+    "conversation_id": "90cc84e0-183a-4705-9e08-a8de53cdda51",
+    "conversation_title": "Demo Conversation: System Architecture",
+    "chunk_index": 0,
+    "content": "Caching layers significantly reduce database load and improve response times. Service mesh provides observability, security, and traffic management features. Container orchestration simplifies deployment and resource management processes. Event-driven architecture enables loose coupling between system components. Container orchestration simplifies deployment and resource management processes. Event-driven architecture enables loose coupling between system components. Caching layers significantly reduce database load and improve response times. Database sharding strategy supports horizontal scaling requirements effectively. Data architecture supports both transactional and analytical workloads efficiently.",
+    "category": "system_architecture",
+    "project_name": "Demo Project Gamma",
+    "participants": 4,
+    "complexity_score": 0.82,
+    "created_date": "2024-09-02T16:31:56.707459",
+    "chunk_length": 714,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096043",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 24
+    }
+  },
+  {
+    "id": "0ce6c804-1847-420f-aee9-8e44cf30e665",
+    "conversation_id": "90cc84e0-183a-4705-9e08-a8de53cdda51",
+    "conversation_title": "Demo Conversation: System Architecture",
+    "chunk_index": 1,
+    "content": "API gateway implementation ensures proper routing, security, and rate limiting capabilities. Database sharding strategy supports horizontal scaling requirements effectively. Service mesh provides observability, security, and traffic management features. API gateway implementation ensures proper routing, security, and rate limiting capabilities. API gateway implementation ensures proper routing, security, and rate limiting capabilities. Event-d",
+    "category": "system_architecture",
+    "project_name": "Demo Project Gamma",
+    "participants": 4,
+    "complexity_score": 0.82,
+    "created_date": "2024-09-02T16:31:56.707459",
+    "chunk_length": 447,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096046",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 24
+    }
+  },
+  {
+    "id": "c1e37f0c-ffcf-4ba3-94b9-8cd68bf315c1",
+    "conversation_id": "64639b58-4d5e-4151-8283-b7c866117d26",
+    "conversation_title": "Demo Conversation: Technical Development",
+    "chunk_index": 0,
+    "content": "Security considerations require implementing proper input validation and sanitization. The performance metrics show we can achieve significant improvements by restructuring the data flow. The microservices architecture will provide better scalability and maintainability. I've completed the API design analysis and have some recommendations. We need to implement proper caching strategies to improve response times. The microservices architecture will provide better scalability and maintainability. Code review feedback suggests we should simplify the authentication flow. The performance metrics show we",
+    "category": "technical_development",
+    "project_name": "Demo Project Gamma",
+    "participants": 2,
+    "complexity_score": 0.61,
+    "created_date": "2024-11-02T16:31:56.707467",
+    "chunk_length": 605,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096049",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 7
+    }
+  },
+  {
+    "id": "e54679c1-b6b7-4692-b2f1-53a4bca9be1a",
+    "conversation_id": "aa6e8969-0c7c-41fd-8c79-0c66dd0c5389",
+    "conversation_title": "Demo Conversation: General",
+    "chunk_index": 0,
+    "content": "Agile methodologies enable rapid iteration and responsive development cycles. Team collaboration and communication are essential for successful project delivery. Innovation and experimentation drive competitive advantage and market leadership. Technical debt management balances new feature development with system maintenance. Documentation and knowledge sharing facilitate onboarding and team coordination. Best practices and industry standards guide development and operational procedures. Best practices and industry standards guide development and operational procedures. Innovation and experimentation drive competitive advantage and market leadership. Documentation and knowledge sharing facilitate onboarding and team coordination.",
+    "category": "general",
+    "project_name": "Demo Project Alpha",
+    "participants": 2,
+    "complexity_score": 0.77,
+    "created_date": "2025-05-23T16:31:56.707474",
+    "chunk_length": 739,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096053",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 19
+    }
+  },
+  {
+    "id": "03db606e-cb19-490a-b2b4-1128db50ef7c",
+    "conversation_id": "aa6e8969-0c7c-41fd-8c79-0c66dd0c5389",
+    "conversation_title": "Demo Conversation: General",
+    "chunk_index": 1,
+    "content": "Quality assurance measures ensure deliverables meet established standards and expectations. Innovation and experimentation drive competitive advantage and market leadership. Documentation and knowledge sharing facilitate onboarding and team coordination. Process improvement initiatives enhance efficiency and reduce operational overhead. Customer focus ensures solutions address real bus",
+    "category": "general",
+    "project_name": "Demo Project Alpha",
+    "participants": 2,
+    "complexity_score": 0.77,
+    "created_date": "2025-05-23T16:31:56.707474",
+    "chunk_length": 388,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096057",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 19
+    }
+  },
+  {
+    "id": "d876df0a-219c-48ba-a6c3-407e0e1b0753",
+    "conversation_id": "f4a05ac8-e76a-4860-ac21-221d7362ed06",
+    "conversation_title": "Demo Conversation: Data Analytics",
+    "chunk_index": 0,
+    "content": "ETL pipeline processing ensures clean, consistent data for analysis workflows. Predictive analytics models forecast future trends with high accuracy rates. ETL pipeline processing ensures clean, consistent data for analysis workflows. Business intelligence tools enable self-service analytics for stakeholders. A/B testing results demonstrate significant improvement in user engagement metrics. Data quality assessment identifies inconsistencies requiring attention and correction. Reporting dashboard visualizes critical business metrics in real-time. Customer segmentation analysis reveals distinct user groups and preferences. Predictive analytics models forecast future trends with high accuracy rates. Statistical modeling provides insights into key performance indicators and trends.",
+    "category": "data_analytics",
+    "project_name": "Demo Project Delta",
+    "participants": 2,
+    "complexity_score": 0.46,
+    "created_date": "2024-06-29T16:31:56.707482",
+    "chunk_length": 789,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096060",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 7
+    }
+  },
+  {
+    "id": "6fd97c92-98f1-447e-9c6e-1d5ab4000095",
+    "conversation_id": "f4a05ac8-e76a-4860-ac21-221d7362ed06",
+    "conversation_title": "Demo Conversation: Data Analytics",
+    "chunk_index": 1,
+    "content": "Predictive analytics models forecast future trends with high accuracy rates. Data quality assessment identifies inconsistencies requiring attention and cor",
+    "category": "data_analytics",
+    "project_name": "Demo Project Delta",
+    "participants": 2,
+    "complexity_score": 0.46,
+    "created_date": "2024-06-29T16:31:56.707482",
+    "chunk_length": 155,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096062",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 7
+    }
+  },
+  {
+    "id": "bd86ac94-d9f4-488b-b84b-4b280abd3932",
+    "conversation_id": "0d392dfd-daff-4fc0-9dbf-91bc3e156d07",
+    "conversation_title": "Demo Conversation: Strategic Planning",
+    "chunk_index": 0,
+    "content": "Digital transformation initiatives modernize legacy systems and processes. Innovation roadmap balances cutting-edge research with practical implementation needs. Competitive positioning analysis identifies opportunities for market differentiation. Investment priorities reflect both immediate needs and long-term strategic goals. Performance measurement systems track progress toward strategic objectives. Partnership strategy leverages external expertise to accelerate development timelines. Risk management framework addresses potential challenges and mitigation strategies. Stakeholder alignment ensures uni",
+    "category": "strategic_planning",
+    "project_name": "Demo Project Alpha",
+    "participants": 2,
+    "complexity_score": 0.69,
+    "created_date": "2024-06-16T16:31:56.707489",
+    "chunk_length": 610,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096064",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 18
+    }
+  },
+  {
+    "id": "692da491-f3cd-48ae-a529-30c895b882a6",
+    "conversation_id": "9d9dfb75-5486-480d-9202-fa3c611904f5",
+    "conversation_title": "Demo Conversation: Strategic Planning",
+    "chunk_index": 0,
+    "content": "Risk management framework addresses potential challenges and mitigation strategies. Change management ensures smooth transition during organizational transformations. Stakeholder alignment ensures unified direction across all organizational levels. Long-term strategic planning aligns technology investments with business objectives. Change management ensures smooth transition during organizational transformations. Change management ensures smooth transition during organizational transformations. Digital transformation initiatives modernize legacy systems and processes. Market expansion requires careful consideration of regional requirements and regulations. Market expansion requires careful consideration of regional requirements and regulations.",
+    "category": "strategic_planning",
+    "project_name": "Demo Project Beta",
+    "participants": 3,
+    "complexity_score": 0.7,
+    "created_date": "2024-12-04T16:31:56.707495",
+    "chunk_length": 754,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096068",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 25
+    }
+  },
+  {
+    "id": "d7d5a490-fe51-4095-9c3c-8ec211592df8",
+    "conversation_id": "9d9dfb75-5486-480d-9202-fa3c611904f5",
+    "conversation_title": "Demo Conversation: Strategic Planning",
+    "chunk_index": 1,
+    "content": "Risk management framework addresses potential challenges and mitigation strategies. M",
+    "category": "strategic_planning",
+    "project_name": "Demo Project Beta",
+    "participants": 3,
+    "complexity_score": 0.7,
+    "created_date": "2024-12-04T16:31:56.707495",
+    "chunk_length": 85,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096070",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 25
+    }
+  },
+  {
+    "id": "0bf18c9a-78c4-4854-948b-2157c254e271",
+    "conversation_id": "b99d8806-51b1-4af1-9720-8dd927fb4331",
+    "conversation_title": "Demo Conversation: Business Analysis",
+    "chunk_index": 0,
+    "content": "Risk assessment highlights the importance of robust data backup and recovery procedures. ROI projections show positive returns within 18 months if we maintain current development pace. The cost-benefit analysis suggests focusing on core functionality first before expanding to advanced features. Budget planning must account for scalability requirements and infrastructure costs. Quality assurance processes should be strengthened to maintain high customer satisfaction. Risk assessment highlights the importance of robust data backup and recovery procedures. Risk assessment highlights the importance of robust data backup and recovery procedures. Competitive analysis reveals opportunities to differentiate through superior user experience.",
+    "category": "business_analysis",
+    "project_name": "Demo Project Delta",
+    "participants": 4,
+    "complexity_score": 0.74,
+    "created_date": "2024-12-25T16:31:56.707501",
+    "chunk_length": 742,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096074",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 8
+    }
+  },
+  {
+    "id": "3bb74617-531c-4e46-b947-34792c054859",
+    "conversation_id": "b99d8806-51b1-4af1-9720-8dd927fb4331",
+    "conversation_title": "Demo Conversation: Business Analysis",
+    "chunk_index": 1,
+    "content": "Risk assessment highlights the importance of robust data backup and recovery procedures. Market research indicates strong demand for automation capabilities in our target segment. Strategic partnerships could accelerate market entry and reduce development overhead. Market research indicates strong demand for automation capabilities in our target segment. Resource allocation shou",
+    "category": "business_analysis",
+    "project_name": "Demo Project Delta",
+    "participants": 4,
+    "complexity_score": 0.74,
+    "created_date": "2024-12-25T16:31:56.707501",
+    "chunk_length": 381,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096076",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 8
+    }
+  },
+  {
+    "id": "50b2a078-c185-4e1a-958e-695b1118d93c",
+    "conversation_id": "5fc80fa9-71ff-4fcc-8ca8-1c6d014d32a0",
+    "conversation_title": "Demo Conversation: General",
+    "chunk_index": 0,
+    "content": "Process improvement initiatives enhance efficiency and reduce operational overhead. This discussion covers various aspects of project requirements and implementation strategy. Quality assurance measures ensure deliverables meet established standards and expectations. Customer focus ensures solutions address real business needs and user requirements. Customer focus ensures solutions address real business needs and user requirements. Innovation and experimentation drive competitive advantage and market leadership. Innovation and experimentation drive competitive advantage and market leadership. Continuous learning and skill development keep teams current with evolving technologies. This discussion covers various aspects of project requirements and implementation strategy.",
+    "category": "general",
+    "project_name": "Demo Project Beta",
+    "participants": 4,
+    "complexity_score": 0.86,
+    "created_date": "2025-01-10T16:31:56.707508",
+    "chunk_length": 780,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096079",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 10
+    }
+  },
+  {
+    "id": "7318f6c7-39a6-4645-8308-342d31280e6a",
+    "conversation_id": "5fc80fa9-71ff-4fcc-8ca8-1c6d014d32a0",
+    "conversation_title": "Demo Conversation: General",
+    "chunk_index": 1,
+    "content": "Quality assurance measures ensure deliverables meet established standards and expectations. Process improvement initiatives enhance efficiency and reduce operational overhead. Technical debt management balances new feature development with system maintenance. Agile",
+    "category": "general",
+    "project_name": "Demo Project Beta",
+    "participants": 4,
+    "complexity_score": 0.86,
+    "created_date": "2025-01-10T16:31:56.707508",
+    "chunk_length": 265,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096082",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 10
+    }
+  },
+  {
+    "id": "cb3f93f7-aea4-4bd4-8c68-ac8037dc3c56",
+    "conversation_id": "61eecc6e-e821-48d7-ac67-af5bd985642a",
+    "conversation_title": "Demo Conversation: Business Analysis",
+    "chunk_index": 0,
+    "content": "Based on the stakeholder feedback, we should prioritize features that deliver immediate business value. Budget planning must account for scalability requirements and infrastructure costs. Customer feedback emphasizes the need for intuitive interfaces and streamlined workflows. Budget planning must account for scalability requirements and infrastructure costs. ROI projections show positive returns within 18 months if we maintain current development pace. The cost-benefit analysis suggests focusing on core functionality first before expanding to advanced features. The cost-benefit analysis suggests focusing on core functionality first before expanding to advanced features. Strategic partnerships could accelerate m",
+    "category": "business_analysis",
+    "project_name": "Demo Project Delta",
+    "participants": 2,
+    "complexity_score": 0.88,
+    "created_date": "2025-04-11T16:31:56.707515",
+    "chunk_length": 721,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096085",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 25
+    }
+  },
+  {
+    "id": "7a5e424a-a484-4470-955a-6c3c34cbf933",
+    "conversation_id": "13a9e110-bc67-4fc5-b24b-153d10456362",
+    "conversation_title": "Demo Conversation: Performance Optimization",
+    "chunk_index": 0,
+    "content": "Optimization strategies balance performance improvements with code maintainability. Caching implementation reduced average response times by 60% across all endpoints. Scalability testing demonstrates system behavior under increasing load conditions. Load testing reveals system capacity limits and scaling requirements. Load testing reveals system capacity limits and scaling requirements. Optimization strategies balance performance improvements with code maintainability. Performance benchmarking establishes baseline metrics for continuous improvement. Performance benchmarking establishes baseline metrics for continuous improvement.",
+    "category": "performance_optimization",
+    "project_name": "Demo Project Beta",
+    "participants": 4,
+    "complexity_score": 0.59,
+    "created_date": "2025-02-22T16:31:56.707522",
+    "chunk_length": 637,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096102",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 15
+    }
+  },
+  {
+    "id": "6563cf14-628b-4fc2-a581-706cd8f40acc",
+    "conversation_id": "fcc76779-a580-498c-991d-c5ae993470a3",
+    "conversation_title": "Demo Conversation: Project Management",
+    "chunk_index": 0,
+    "content": "Sprint planning session identified key deliverables for the upcoming development cycle. Change management processes help handle evolving requirements efficiently. Team coordination requires clear communication channels and regular status updates. Resource dependencies have been mapped and contingency plans are in place. Progress tracking shows we're on schedule for the major milestone deliverables. Team retrospectives provide valuable insights for continuous process improvement. Timeline adjustments are necessary to accommodate scope changes requested by stakeholders. Documentation standards maintain knowledge sharing across distributed teams. Sprint planning session identified key deliverables for the upcoming development cycle.",
+    "category": "project_management",
+    "project_name": "Demo Project Delta",
+    "participants": 5,
+    "complexity_score": 0.56,
+    "created_date": "2025-04-15T16:31:56.707528",
+    "chunk_length": 739,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096125",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 15
+    }
+  },
+  {
+    "id": "5dfdf2b7-5565-4441-a79e-8c9ec3eb0bfc",
+    "conversation_id": "fcc76779-a580-498c-991d-c5ae993470a3",
+    "conversation_title": "Demo Conversation: Project Management",
+    "chunk_index": 1,
+    "content": "Risk mitigation strategies include backup resources and alternative implementa",
+    "category": "project_management",
+    "project_name": "Demo Project Delta",
+    "participants": 5,
+    "complexity_score": 0.56,
+    "created_date": "2025-04-15T16:31:56.707528",
+    "chunk_length": 78,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096129",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 15
+    }
+  },
+  {
+    "id": "f2fc7d17-918f-4484-be79-1f4057fe20ff",
+    "conversation_id": "5284ce55-5775-4457-ac9a-7a74f5fb27d7",
+    "conversation_title": "Demo Conversation: Technical Development",
+    "chunk_index": 0,
+    "content": "The deployment pipeline needs automation to reduce manual errors. Code review feedback suggests we should simplify the authentication flow. The microservices architecture will provide better scalability and maintainability. We need to implement proper caching strategies to improve response times. We should implement better error handling mechanisms and add comprehensive logging. The performance metrics show we can achieve significant improvements by restructuring the data flow. Let's refactor the database queries to optimize performance and reduce latency. Let's refactor the database queries to optimize performance and reduce latency. We need to implement proper caching strategies to improve response times. The deployment pipeline needs automation to reduce manual errors.",
+    "category": "technical_development",
+    "project_name": "Demo Project Gamma",
+    "participants": 4,
+    "complexity_score": 0.31,
+    "created_date": "2025-01-24T16:31:56.707534",
+    "chunk_length": 782,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096133",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 13
+    }
+  },
+  {
+    "id": "28e9a611-81ad-4312-abf7-62d3ec900032",
+    "conversation_id": "5284ce55-5775-4457-ac9a-7a74f5fb27d7",
+    "conversation_title": "Demo Conversation: Technical Development",
+    "chunk_index": 1,
+    "content": "The performance metrics show we can achieve significant improvements by restructuring the data flow. The microservices architecture will provide better scalability and maintainability. We should implement better error handling mechanisms and add comprehensive logging. Let's refactor the d",
+    "category": "technical_development",
+    "project_name": "Demo Project Gamma",
+    "participants": 4,
+    "complexity_score": 0.31,
+    "created_date": "2025-01-24T16:31:56.707534",
+    "chunk_length": 289,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096136",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 13
+    }
+  },
+  {
+    "id": "f806125a-26c0-40a0-af58-5c10c1b2d1a4",
+    "conversation_id": "8accae94-ff9d-4d95-a9d2-0b1dc0b13c78",
+    "conversation_title": "Demo Conversation: Performance Optimization",
+    "chunk_index": 0,
+    "content": "Load testing reveals system capacity limits and scaling requirements. Optimization strategies balance performance improvements with code maintainability. Database indexing improvements dramatically accelerated complex query performance. Code optimization techniques improved throughput while maintaining functionality. Optimization strategies balance performance improvements with code maintainability. Capacity planning ensures infrastructure can handle projected growth requirements. Memory optimization strategies eliminated memory leaks and reduced resource consumption. Capacity planning ensures infrastructure can handle projected growth requirements. Scalability testing demonstrates system behavior under increasing load conditions.",
+    "category": "performance_optimization",
+    "project_name": "Demo Project Beta",
+    "participants": 4,
+    "complexity_score": 0.51,
+    "created_date": "2025-02-01T16:31:56.707540",
+    "chunk_length": 740,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096140",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 7
+    }
+  },
+  {
+    "id": "d47bdd3f-9378-4100-b3b5-5ef44b3a5fd4",
+    "conversation_id": "8accae94-ff9d-4d95-a9d2-0b1dc0b13c78",
+    "conversation_title": "Demo Conversation: Performance Optimization",
+    "chunk_index": 1,
+    "content": "Resource monitoring provides insights into system utilization patterns and trends. Performance benchmarking e",
+    "category": "performance_optimization",
+    "project_name": "Demo Project Beta",
+    "participants": 4,
+    "complexity_score": 0.51,
+    "created_date": "2025-02-01T16:31:56.707540",
+    "chunk_length": 109,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096143",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 7
+    }
+  },
+  {
+    "id": "9c3ca4d3-7b6c-4431-a7ba-f90807c8bde7",
+    "conversation_id": "33343b99-9312-45a0-b790-6e6ff7d66997",
+    "conversation_title": "Demo Conversation: Technical Development",
+    "chunk_index": 0,
+    "content": "The deployment pipeline needs automation to reduce manual errors. The integration with the external services requires careful handling of rate limits. We should implement better error handling mechanisms and add comprehensive logging. We need to implement proper caching strategies to improve response times. The deployment pipeline needs automation to reduce manual errors. The performance metrics show we can achieve significant improvements by restructuring the data flow. The integration with the external services requires careful handling of rate limits. Security considerations require implementing proper input validation and sanitization. The testing strategy should include unit tests, integration tests, and end-to-end scenarios.",
+    "category": "technical_development",
+    "project_name": "Demo Project Gamma",
+    "participants": 5,
+    "complexity_score": 0.64,
+    "created_date": "2025-05-12T16:31:56.707546",
+    "chunk_length": 740,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096147",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 9
+    }
+  },
+  {
+    "id": "d608dc27-691e-4dd0-9147-7d23109db0f4",
+    "conversation_id": "33343b99-9312-45a0-b790-6e6ff7d66997",
+    "conversation_title": "Demo Conversation: Technical Development",
+    "chunk_index": 1,
+    "content": "We need to implement proper caching strategies to improve response times. We should implement better error handling mechanisms and add comprehensive logging. The microservices architecture will provide better scalability and maintainability. The microservices architecture will provide better sca",
+    "category": "technical_development",
+    "project_name": "Demo Project Gamma",
+    "participants": 5,
+    "complexity_score": 0.64,
+    "created_date": "2025-05-12T16:31:56.707546",
+    "chunk_length": 296,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096153",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 9
+    }
+  },
+  {
+    "id": "b684a91b-819d-4607-8328-10b177128a05",
+    "conversation_id": "19d8381a-e97c-4cfd-8c14-583cdc79e93f",
+    "conversation_title": "Demo Conversation: Performance Optimization",
+    "chunk_index": 0,
+    "content": "Capacity planning ensures infrastructure can handle projected growth requirements. Network optimization reduces latency and improves user experience significantly. Optimization strategies balance performance improvements with code maintainability. Caching implementation reduced average response times by 60% across all endpoints. Resource monitoring provides insights into system utilization patterns and trends. Memory optimization strategies eliminated memory leaks and reduced resource consumption. Caching implementation reduced average response times by 60% across all endpoints. Performance benchmarking establishes baseline metrics for continuous improvement. Database indexing improvements dramatically accelerated complex query performance.",
+    "category": "performance_optimization",
+    "project_name": "Demo Project Alpha",
+    "participants": 5,
+    "complexity_score": 0.36,
+    "created_date": "2024-11-23T16:31:56.707553",
+    "chunk_length": 750,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096157",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 19
+    }
+  },
+  {
+    "id": "215363e9-399c-4d26-9acb-33d498d3d768",
+    "conversation_id": "19d8381a-e97c-4cfd-8c14-583cdc79e93f",
+    "conversation_title": "Demo Conversation: Performance Optimization",
+    "chunk_index": 1,
+    "content": "Network optimization reduces latency and improves user experience significantly. Capacity planning ensures infrastructure can handle projected growth requirements. Network optimization reduces latency and improves user experience significantly. Network optimization reduces latency and impro",
+    "category": "performance_optimization",
+    "project_name": "Demo Project Alpha",
+    "participants": 5,
+    "complexity_score": 0.36,
+    "created_date": "2024-11-23T16:31:56.707553",
+    "chunk_length": 291,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096159",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 19
+    }
+  },
+  {
+    "id": "a871b660-d1f6-4fd5-8f7d-f38d9dfc614e",
+    "conversation_id": "206956a7-05f4-4ef7-ad97-5841b862bcde",
+    "conversation_title": "Demo Conversation: Business Analysis",
+    "chunk_index": 0,
+    "content": "Based on the stakeholder feedback, we should prioritize features that deliver immediate business value. Customer feedback emphasizes the need for intuitive interfaces and streamlined workflows. Based on the stakeholder feedback, we should prioritize features that deliver immediate business value. Competitive analysis reveals opportunities to differentiate through superior user experience. Based on the stakeholder feedback, we should prioritize features that deliver immediate business value. The cost-benefit analysis suggests focusing on core functionality first before expanding to advanced features. Competitive analysis reveals opportunities to differentiate through superior user experience. Competitive analysis reveals opportunities to differentiate through superior user experience.",
+    "category": "business_analysis",
+    "project_name": "Demo Project Delta",
+    "participants": 5,
+    "complexity_score": 0.43,
+    "created_date": "2024-06-30T16:31:56.707559",
+    "chunk_length": 794,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096162",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 17
+    }
+  },
+  {
+    "id": "e6f98cd4-05e3-4f50-9e43-b5c8c805ee3a",
+    "conversation_id": "206956a7-05f4-4ef7-ad97-5841b862bcde",
+    "conversation_title": "Demo Conversation: Business Analysis",
+    "chunk_index": 1,
+    "content": "Budget planning must account for scalability requirements and infr",
+    "category": "business_analysis",
+    "project_name": "Demo Project Delta",
+    "participants": 5,
+    "complexity_score": 0.43,
+    "created_date": "2024-06-30T16:31:56.707559",
+    "chunk_length": 66,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096164",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 17
+    }
+  },
+  {
+    "id": "4a79150d-63f3-4319-bdb3-3764217d6564",
+    "conversation_id": "c45b254c-69ac-4334-8269-fde0fa45000c",
+    "conversation_title": "Demo Conversation: Business Analysis",
+    "chunk_index": 0,
+    "content": "Budget planning must account for scalability requirements and infrastructure costs. Competitive analysis reveals opportunities to differentiate through superior user experience. Based on the stakeholder feedback, we should prioritize features that deliver immediate business value. Customer feedback emphasizes the need for intuitive interfaces and streamlined workflows. Product roadmap alignment with customer needs is critical for long-term success. Resource allocation should balance feature development with technical debt reduction. Quality assurance processes should be strengthened to maintain high customer satisfaction. The cost-benefit analysis suggests focusing on core functionality first before expanding to advanced features.",
+    "category": "business_analysis",
+    "project_name": "Demo Project Delta",
+    "participants": 5,
+    "complexity_score": 0.42,
+    "created_date": "2025-04-15T16:31:56.707566",
+    "chunk_length": 740,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096167",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 23
+    }
+  },
+  {
+    "id": "cb3399fd-c9a7-4e9d-ba8a-61cc2fd0cefc",
+    "conversation_id": "c45b254c-69ac-4334-8269-fde0fa45000c",
+    "conversation_title": "Demo Conversation: Business Analysis",
+    "chunk_index": 1,
+    "content": "Resource allocation should balance feature development with technical debt reduction. Resource allocation should balance feature development with technical debt reduc",
+    "category": "business_analysis",
+    "project_name": "Demo Project Delta",
+    "participants": 5,
+    "complexity_score": 0.42,
+    "created_date": "2025-04-15T16:31:56.707566",
+    "chunk_length": 166,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096170",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 23
+    }
+  },
+  {
+    "id": "da27f420-b6ff-477f-af98-fd970959b907",
+    "conversation_id": "fff92dd6-a3a2-4b18-b5a2-a31dac241e37",
+    "conversation_title": "Demo Conversation: Data Analytics",
+    "chunk_index": 0,
+    "content": "Customer segmentation analysis reveals distinct user groups and preferences. Predictive analytics models forecast future trends with high accuracy rates. Customer segmentation analysis reveals distinct user groups and preferences. Predictive analytics models forecast future trends with high accuracy rates. Data quality assessment identifies inconsistencies requiring attention and correction. A/B testing results demonstrate significant improvement in user engagement metrics. Data quality assessment identifies inconsistencies requiring attention and correction. A/B testing results demonstrate significant improvement in user engagement metrics. Predictive analytics models forecast future trends with high accuracy rates.",
+    "category": "data_analytics",
+    "project_name": "Demo Project Beta",
+    "participants": 2,
+    "complexity_score": 0.73,
+    "created_date": "2024-07-06T16:31:56.707573",
+    "chunk_length": 726,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096174",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 12
+    }
+  },
+  {
+    "id": "323f436d-fd76-4a69-8de0-980d5ce0507a",
+    "conversation_id": "fff92dd6-a3a2-4b18-b5a2-a31dac241e37",
+    "conversation_title": "Demo Conversation: Data Analytics",
+    "chunk_index": 1,
+    "content": "Data quality assessment identifies inconsistencies requiring attention and correction. Customer segmentation analysis reveals distinct user groups and preferences. Business intelligence tools enable self-service analytics for stakeholders. Report",
+    "category": "data_analytics",
+    "project_name": "Demo Project Beta",
+    "participants": 2,
+    "complexity_score": 0.73,
+    "created_date": "2024-07-06T16:31:56.707573",
+    "chunk_length": 246,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096176",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 12
+    }
+  },
+  {
+    "id": "92759592-f5d1-47f3-b7fa-df8fd2d59e53",
+    "conversation_id": "09fc1030-40d5-46dd-a553-5fd28266a182",
+    "conversation_title": "Demo Conversation: Data Analytics",
+    "chunk_index": 0,
+    "content": "Customer segmentation analysis reveals distinct user groups and preferences. Data analysis reveals clear patterns in user behavior and system performance metrics. Reporting dashboard visualizes critical business metrics in real-time. Performance benchmarking shows substantial improvements over previous implementations. Data analysis reveals clear patterns in user behavior and system performance metrics. Reporting dashboard visualizes critical business metrics in real-time. Machine learning models identify anomalies and patterns in large datasets. Reporting dashboard visualizes critical business metrics in real-time. ETL pipeline processing ensures clean, consistent data for analysis workflows. Customer segmentation analysis reveals distinct user groups and preferences. Perfo",
+    "category": "data_analytics",
+    "project_name": "Demo Project Delta",
+    "participants": 4,
+    "complexity_score": 0.65,
+    "created_date": "2025-05-01T16:31:56.707583",
+    "chunk_length": 785,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096179",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 12
+    }
+  },
+  {
+    "id": "d56de27f-349b-4adf-b3fc-e81987d16e31",
+    "conversation_id": "03ad3cf6-ede8-4bf6-91b6-683996e196fa",
+    "conversation_title": "Demo Conversation: Strategic Planning",
+    "chunk_index": 0,
+    "content": "Long-term strategic planning aligns technology investments with business objectives. Market expansion requires careful consideration of regional requirements and regulations. Digital transformation initiatives modernize legacy systems and processes. Risk management framework addresses potential challenges and mitigation strategies. Partnership strategy leverages external expertise to accelerate development timelines. Digital transformation initiatives modernize legacy systems and processes. Talent acquisition strategy focuses on critical skills needed for future growth. Market expansion requires careful consideration of regional requirements and regulations. Investment priorities reflect both im",
+    "category": "strategic_planning",
+    "project_name": "Demo Project Alpha",
+    "participants": 4,
+    "complexity_score": 0.87,
+    "created_date": "2024-06-27T16:31:56.707589",
+    "chunk_length": 704,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096181",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 16
+    }
+  },
+  {
+    "id": "c611f0b3-0fcb-4508-bc8d-d31c54ea3bbe",
+    "conversation_id": "cfb6957f-2aa4-4a2d-9bc4-b99272f561a7",
+    "conversation_title": "Demo Conversation: Ai Ml Research",
+    "chunk_index": 0,
+    "content": "Interpretability analysis helps understand model decision-making processes. Model evaluation metrics indicate excellent precision and recall for classification tasks. The vector embedding model shows promising results for semantic similarity tasks. Interpretability analysis helps understand model decision-making processes. The attention mechanism effectively captures long-range dependencies in conversational data. Neural architecture search identified optimal network topology for our specific use case. Hyperparameter tuning using Bayesian optimization yielded 15% improvement in accuracy. Hyperparameter tuning using Bayesian optimization yielded 15% improvement in accuracy. Cross-validation results demonstrate robust performance across different data distributions.",
+    "category": "ai_ml_research",
+    "project_name": "Demo Project Delta",
+    "participants": 2,
+    "complexity_score": 0.77,
+    "created_date": "2024-06-30T16:31:56.707597",
+    "chunk_length": 774,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096185",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 11
+    }
+  },
+  {
+    "id": "955f42ce-9777-4e08-b32d-e17ad043ec19",
+    "conversation_id": "cfb6957f-2aa4-4a2d-9bc4-b99272f561a7",
+    "conversation_title": "Demo Conversation: Ai Ml Research",
+    "chunk_index": 1,
+    "content": "The vector embedding model shows promising results for semantic similarity tasks. Hyperparameter tuning using Bayesian optimization yielded 15% improvement in accuracy. Ensemble methods combining multiple models improve overall system robustness. The vector embedding model",
+    "category": "ai_ml_research",
+    "project_name": "Demo Project Delta",
+    "participants": 2,
+    "complexity_score": 0.77,
+    "created_date": "2024-06-30T16:31:56.707597",
+    "chunk_length": 273,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096188",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 11
+    }
+  },
+  {
+    "id": "90e4e7b6-8233-471c-b4b5-29a7cfa646d0",
+    "conversation_id": "e4c91d91-d7a7-4c1b-ac8c-b45c9c063b3a",
+    "conversation_title": "Demo Conversation: Strategic Planning",
+    "chunk_index": 0,
+    "content": "Long-term strategic planning aligns technology investments with business objectives. Market expansion requires careful consideration of regional requirements and regulations. Talent acquisition strategy focuses on critical skills needed for future growth. Stakeholder alignment ensures unified direction across all organizational levels. Investment priorities reflect both immediate needs and long-term strategic goals. Competitive positioning analysis identifies opportunities for market differentiation. Risk management framework addresses potential challenges and mitigation strategies. Competitive positioning analysis identifies opportunities for market differentiation. Risk management framework addresses",
+    "category": "strategic_planning",
+    "project_name": "Demo Project Delta",
+    "participants": 5,
+    "complexity_score": 0.7,
+    "created_date": "2025-06-13T16:31:56.707603",
+    "chunk_length": 711,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096190",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 12
+    }
+  },
+  {
+    "id": "a093df97-af67-4c71-a74a-df9c122d304e",
+    "conversation_id": "0fde1964-d1e1-4877-85cf-4d09c01cae48",
+    "conversation_title": "Demo Conversation: Strategic Planning",
+    "chunk_index": 0,
+    "content": "Digital transformation initiatives modernize legacy systems and processes. Talent acquisition strategy focuses on critical skills needed for future growth. Change management ensures smooth transition during organizational transformations. Talent acquisition strategy focuses on critical skills needed for future growth. Competitive positioning analysis identifies opportunities for market differentiation. Risk management framework addresses potential challenges and mitigation strategies. Partnership strategy leverages external expertise to accelerate development timelines. Long-term strategic planning aligns technology investments with business objectives. Innovation roadmap balances cutting-edge research with practical implementation needs.",
+    "category": "strategic_planning",
+    "project_name": "Demo Project Beta",
+    "participants": 5,
+    "complexity_score": 0.36,
+    "created_date": "2024-10-02T16:31:56.707609",
+    "chunk_length": 748,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096194",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 5
+    }
+  },
+  {
+    "id": "cff69c1a-1a26-4078-9e38-e11eb2beb7bc",
+    "conversation_id": "0fde1964-d1e1-4877-85cf-4d09c01cae48",
+    "conversation_title": "Demo Conversation: Strategic Planning",
+    "chunk_index": 1,
+    "content": "Talent acquisition strategy focuses on critical skills needed for future growth. Innovation roadmap balances cutting-edge research with practical implementation needs. Talent acquisition strategy focuses on critical skills need",
+    "category": "strategic_planning",
+    "project_name": "Demo Project Beta",
+    "participants": 5,
+    "complexity_score": 0.36,
+    "created_date": "2024-10-02T16:31:56.707609",
+    "chunk_length": 227,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096197",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 5
+    }
+  },
+  {
+    "id": "dc316662-8285-4f29-a470-31d65cf3c813",
+    "conversation_id": "5cbabe6c-1b61-436e-94c8-d4506628da6e",
+    "conversation_title": "Demo Conversation: Technical Development",
+    "chunk_index": 0,
+    "content": "Let's refactor the database queries to optimize performance and reduce latency. The deployment pipeline needs automation to reduce manual errors. The testing strategy should include unit tests, integration tests, and end-to-end scenarios. The testing strategy should include unit tests, integration tests, and end-to-end scenarios. The integration with the external services requires careful handling of rate limits. Code review feedback suggests we should simplify the authentication flow. I've completed the API design analysis and have some recommendations. Code review feedback suggests we should simplify the authentication flow. Let's refactor the database queries to optimize performance and reduce latency. Code review feedback suggests we should simplify the authentication flow.",
+    "category": "technical_development",
+    "project_name": "Demo Project Alpha",
+    "participants": 4,
+    "complexity_score": 0.4,
+    "created_date": "2025-01-13T16:31:56.707615",
+    "chunk_length": 788,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096199",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 21
+    }
+  },
+  {
+    "id": "a15e377b-a0fe-4996-8474-52a5482f5424",
+    "conversation_id": "5cbabe6c-1b61-436e-94c8-d4506628da6e",
+    "conversation_title": "Demo Conversation: Technical Development",
+    "chunk_index": 1,
+    "content": "Security considerations require implementing proper input validation and sanitization. Let's refactor the database queries to optimize performance and reduce latency. I've completed the API design analysis and have some recommendations. The API documentation should be updated to reflect the latest changes. Le",
+    "category": "technical_development",
+    "project_name": "Demo Project Alpha",
+    "participants": 4,
+    "complexity_score": 0.4,
+    "created_date": "2025-01-13T16:31:56.707615",
+    "chunk_length": 310,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096202",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 21
+    }
+  },
+  {
+    "id": "b958715c-7214-424c-91d9-2786927f98d2",
+    "conversation_id": "461b1163-797b-425f-b96f-275d8edc575c",
+    "conversation_title": "Demo Conversation: Project Management",
+    "chunk_index": 0,
+    "content": "Risk mitigation strategies include backup resources and alternative implementation paths. Team coordination requires clear communication channels and regular status updates. Quality gates ensure deliverables meet acceptance criteria before moving to next phase. Team retrospectives provide valuable insights for continuous process improvement. Stakeholder engagement ensures alignment between business needs and technical solutions. Stakeholder engagement ensures alignment between business needs and technical solutions. Timeline adjustments are necessary to accommodate scope changes requested by stakeholders. Documentation standards maintain knowledge sharing across distributed teams. Change management processes help handle evolving requirements",
+    "category": "project_management",
+    "project_name": "Demo Project Delta",
+    "participants": 4,
+    "complexity_score": 0.56,
+    "created_date": "2025-01-01T16:31:56.707622",
+    "chunk_length": 751,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096205",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 19
+    }
+  },
+  {
+    "id": "100a1ab9-fa18-4690-96db-75af32b228bf",
+    "conversation_id": "a35f6ca5-d566-4045-8f40-4f55354c23b9",
+    "conversation_title": "Demo Conversation: Data Analytics",
+    "chunk_index": 0,
+    "content": "Performance benchmarking shows substantial improvements over previous implementations. A/B testing results demonstrate significant improvement in user engagement metrics. Data warehouse optimization reduces query response times and improves efficiency. Data analysis reveals clear patterns in user behavior and system performance metrics. Reporting dashboard visualizes critical business metrics in real-time. Data quality assessment identifies inconsistencies requiring attention and correction. ETL pipeline processing ensures clean, consistent data for analysis workflows. Data analysis reveals clear patterns in user behavior and system performance metrics. Bus",
+    "category": "data_analytics",
+    "project_name": "Demo Project Delta",
+    "participants": 3,
+    "complexity_score": 0.52,
+    "created_date": "2025-04-25T16:31:56.707628",
+    "chunk_length": 665,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096208",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 8
+    }
+  },
+  {
+    "id": "25799322-aa02-4ade-a2ab-e7e27ec31a9d",
+    "conversation_id": "5da44120-83eb-474d-a596-e8ff5e1e9cdf",
+    "conversation_title": "Demo Conversation: Ai Ml Research",
+    "chunk_index": 0,
+    "content": "Neural architecture search identified optimal network topology for our specific use case. The vector embedding model shows promising results for semantic similarity tasks. Model training convergence improved significantly after adjusting the learning rate schedule. The attention mechanism effectively captures long-range dependencies in conversational data. The vector embedding model shows promising results for semantic similarity tasks. Cross-validation results demonstrate robust performance across different data distributions. Cross-validation results demonstrate robust performance across different data distributions. Transfer learning from pre-trained models reduces training time while maintaining quality.",
+    "category": "ai_ml_research",
+    "project_name": "Demo Project Alpha",
+    "participants": 2,
+    "complexity_score": 0.82,
+    "created_date": "2024-06-20T16:31:56.707634",
+    "chunk_length": 717,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096213",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 22
+    }
+  },
+  {
+    "id": "227cfa27-8dba-4cf4-bb99-ccd6be981391",
+    "conversation_id": "5da44120-83eb-474d-a596-e8ff5e1e9cdf",
+    "conversation_title": "Demo Conversation: Ai Ml Research",
+    "chunk_index": 1,
+    "content": "Neural architecture search identified optimal network topology for our specific use case. The attention mechanism effe",
+    "category": "ai_ml_research",
+    "project_name": "Demo Project Alpha",
+    "participants": 2,
+    "complexity_score": 0.82,
+    "created_date": "2024-06-20T16:31:56.707634",
+    "chunk_length": 118,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096217",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 22
+    }
+  },
+  {
+    "id": "41f54e1a-a46b-40ee-9b61-12cb0ce44b50",
+    "conversation_id": "fabaae3c-1499-4e55-a8c8-476cf9041dd0",
+    "conversation_title": "Demo Conversation: Technical Development",
+    "chunk_index": 0,
+    "content": "Security considerations require implementing proper input validation and sanitization. The testing strategy should include unit tests, integration tests, and end-to-end scenarios. The testing strategy should include unit tests, integration tests, and end-to-end scenarios. The integration with the external services requires careful handling of rate limits. Code review feedback suggests we should simplify the authentication flow. The API documentation should be updated to reflect the latest changes. I've completed the API design analysis and have some recommendations. The deployment pipeline needs automation to reduce manual errors. The deployment pipeline needs automation to reduce manual errors. The microservices architecture will provide better scalability and maintainability.",
+    "category": "technical_development",
+    "project_name": "Demo Project Beta",
+    "participants": 4,
+    "complexity_score": 0.79,
+    "created_date": "2024-10-23T16:31:56.707640",
+    "chunk_length": 788,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096220",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 16
+    }
+  },
+  {
+    "id": "c6500226-90e3-4691-977b-74e62337996b",
+    "conversation_id": "fabaae3c-1499-4e55-a8c8-476cf9041dd0",
+    "conversation_title": "Demo Conversation: Technical Development",
+    "chunk_index": 1,
+    "content": "I've completed the API design analysis and have some recommendations. Let's refactor the database queries to optimize performance and reduce latency. I've completed the API design analysis and have some recommendations. The API documentation should be updated to reflect the latest changes. Security considerations require implementing proper input validation",
+    "category": "technical_development",
+    "project_name": "Demo Project Beta",
+    "participants": 4,
+    "complexity_score": 0.79,
+    "created_date": "2024-10-23T16:31:56.707640",
+    "chunk_length": 359,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096222",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 16
+    }
+  },
+  {
+    "id": "e5056272-2b53-45b5-af9a-e7b9255ffd2a",
+    "conversation_id": "e247e50d-2e3f-41ca-aebe-5ddf440e7f2e",
+    "conversation_title": "Demo Conversation: Performance Optimization",
+    "chunk_index": 0,
+    "content": "Code optimization techniques improved throughput while maintaining functionality. Caching implementation reduced average response times by 60% across all endpoints. Database indexing improvements dramatically accelerated complex query performance. Load testing reveals system capacity limits and scaling requirements. Memory optimization strategies eliminated memory leaks and reduced resource consumption. Database indexing improvements dramatically accelerated complex query performance. Network optimization reduces latency and improves user experience significantly. Database indexing improvements dramatically accelerated complex query performance. Performance profiling identified bottlenecks in database query execution patterns.",
+    "category": "performance_optimization",
+    "project_name": "Demo Project Alpha",
+    "participants": 2,
+    "complexity_score": 0.52,
+    "created_date": "2024-08-14T16:31:56.707647",
+    "chunk_length": 736,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096226",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 8
+    }
+  },
+  {
+    "id": "c2130013-223a-4be3-9936-8f9f30230484",
+    "conversation_id": "e247e50d-2e3f-41ca-aebe-5ddf440e7f2e",
+    "conversation_title": "Demo Conversation: Performance Optimization",
+    "chunk_index": 1,
+    "content": "Caching implementation reduced average response times by 60% across all endpoints. Memory optimization strategies eliminated memory leaks and reduced resource consumption. Resource monitoring provides insights into system utilization patterns and trends. Performance benchmarking establishes baseline metrics for continuous improvement. Code optimization techniques improved throughput while maintaining functionality. Optimization stra",
+    "category": "performance_optimization",
+    "project_name": "Demo Project Alpha",
+    "participants": 2,
+    "complexity_score": 0.52,
+    "created_date": "2024-08-14T16:31:56.707647",
+    "chunk_length": 436,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096229",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 8
+    }
+  },
+  {
+    "id": "725362b0-bcc8-44db-a486-3087e4a60bc3",
+    "conversation_id": "8cc5bc7f-2b53-46dd-8d28-9c1c27b38edb",
+    "conversation_title": "Demo Conversation: Data Analytics",
+    "chunk_index": 0,
+    "content": "Data warehouse optimization reduces query response times and improves efficiency. Performance benchmarking shows substantial improvements over previous implementations. Customer segmentation analysis reveals distinct user groups and preferences. ETL pipeline processing ensures clean, consistent data for analysis workflows. Machine learning models identify anomalies and patterns in large datasets. Statistical modeling provides insights into key performance indicators and trends. Reporting dashboard visualizes critical business metrics in real-time. A/B testing results demonstrate significant improvement in user engagement metrics. Performance benchmarking shows substantial improvements over previous implementations.",
+    "category": "data_analytics",
+    "project_name": "Demo Project Gamma",
+    "participants": 2,
+    "complexity_score": 0.43,
+    "created_date": "2024-12-24T16:31:56.707664",
+    "chunk_length": 724,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096232",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 24
+    }
+  },
+  {
+    "id": "e6d6520e-519d-40db-91ee-3cf8806ce4c0",
+    "conversation_id": "8cc5bc7f-2b53-46dd-8d28-9c1c27b38edb",
+    "conversation_title": "Demo Conversation: Data Analytics",
+    "chunk_index": 1,
+    "content": "ETL pipeline processing ensures clean, consistent data for analysis workflows. ETL pipeline processi",
+    "category": "data_analytics",
+    "project_name": "Demo Project Gamma",
+    "participants": 2,
+    "complexity_score": 0.43,
+    "created_date": "2024-12-24T16:31:56.707664",
+    "chunk_length": 100,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096235",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 24
+    }
+  },
+  {
+    "id": "50a2cd94-df78-44f5-b846-aab21a1833e7",
+    "conversation_id": "4df9512b-038f-42a3-8503-bb9a9aa8f4b8",
+    "conversation_title": "Demo Conversation: Business Analysis",
+    "chunk_index": 0,
+    "content": "Budget planning must account for scalability requirements and infrastructure costs. Product roadmap alignment with customer needs is critical for long-term success. Product roadmap alignment with customer needs is critical for long-term success. Resource allocation should balance feature development with technical debt reduction. Competitive analysis reveals opportunities to differentiate through superior user experience. Budget planning must account for scalability requirements and infrastructure costs. Budget planning must account for scalability requirements and infrastructure costs. Strategic partnerships could accelerate market entry and reduce development overhead. Quality assurance processes should be strengthened to maintain high customer satisfaction.",
+    "category": "business_analysis",
+    "project_name": "Demo Project Gamma",
+    "participants": 2,
+    "complexity_score": 0.78,
+    "created_date": "2024-10-19T16:31:56.707676",
+    "chunk_length": 770,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096238",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 17
+    }
+  },
+  {
+    "id": "df4c2945-a563-4e82-9cf5-60eb9e7dfa7b",
+    "conversation_id": "4df9512b-038f-42a3-8503-bb9a9aa8f4b8",
+    "conversation_title": "Demo Conversation: Business Analysis",
+    "chunk_index": 1,
+    "content": "Competitive analysis reveals opportunities to differentiate through superior user experience. The cost-bene",
+    "category": "business_analysis",
+    "project_name": "Demo Project Gamma",
+    "participants": 2,
+    "complexity_score": 0.78,
+    "created_date": "2024-10-19T16:31:56.707676",
+    "chunk_length": 107,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096240",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 17
+    }
+  },
+  {
+    "id": "9149453a-e449-4818-91c4-4fb8a8247663",
+    "conversation_id": "6c439847-106b-4323-b508-f8ff4ffbf5bc",
+    "conversation_title": "Demo Conversation: Data Analytics",
+    "chunk_index": 0,
+    "content": "Customer segmentation analysis reveals distinct user groups and preferences. Customer segmentation analysis reveals distinct user groups and preferences. Performance benchmarking shows substantial improvements over previous implementations. Statistical modeling provides insights into key performance indicators and trends. Data analysis reveals clear patterns in user behavior and system performance metrics. Business intelligence tools enable self-service analytics for stakeholders. Machine learning models identify anomalies and patterns in large datasets. Data warehouse optimization reduces query response times and improves efficiency. Data quality assessment identifies inconsistencies requiring attention and correction. Reporting dashboard visualizes critical business metrics in real-time.",
+    "category": "data_analytics",
+    "project_name": "Demo Project Alpha",
+    "participants": 2,
+    "complexity_score": 0.71,
+    "created_date": "2024-07-16T16:31:56.707686",
+    "chunk_length": 800,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096243",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 13
+    }
+  },
+  {
+    "id": "250aee4e-430e-4b38-8237-564572a9a4a9",
+    "conversation_id": "6c439847-106b-4323-b508-f8ff4ffbf5bc",
+    "conversation_title": "Demo Conversation: Data Analytics",
+    "chunk_index": 1,
+    "content": "A/B testing results demonstrate significant improvement in user engagement metrics. Predictive analytics models forecast future trends with high accuracy rates. Data quality assessment identifies inconsistencies requiring attention and correction. Reporting dashboard visualizes",
+    "category": "data_analytics",
+    "project_name": "Demo Project Alpha",
+    "participants": 2,
+    "complexity_score": 0.71,
+    "created_date": "2024-07-16T16:31:56.707686",
+    "chunk_length": 278,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096248",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 13
+    }
+  },
+  {
+    "id": "e5afaab4-0572-4435-ac1f-e14fe83c31cb",
+    "conversation_id": "4b915a7e-84a1-44a0-86e8-05e6c2574f09",
+    "conversation_title": "Demo Conversation: General",
+    "chunk_index": 0,
+    "content": "Customer focus ensures solutions address real business needs and user requirements. This discussion covers various aspects of project requirements and implementation strategy. Customer focus ensures solutions address real business needs and user requirements. Customer focus ensures solutions address real business needs and user requirements. Continuous learning and skill development keep teams current with evolving technologies. Process improvement initiatives enhance efficiency and reduce operational overhead. Agile methodologies enable rapid iteration and responsive development cycles. Technical debt management balances new feature development with system maintenance. Quality assurance measures ensure deliverables meet established standards and expectations.",
+    "category": "general",
+    "project_name": "Demo Project Gamma",
+    "participants": 4,
+    "complexity_score": 0.49,
+    "created_date": "2024-09-24T16:31:56.707694",
+    "chunk_length": 770,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096251",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 10
+    }
+  },
+  {
+    "id": "a90a036d-6ea1-4180-9f6c-7d6de05b43de",
+    "conversation_id": "4b915a7e-84a1-44a0-86e8-05e6c2574f09",
+    "conversation_title": "Demo Conversation: General",
+    "chunk_index": 1,
+    "content": "Agile methodologies enable rapid iteration and responsive development cycles. Agile methodologies enable rapid iteration and responsive development cycles. Documentation and knowledge sharing facilitate onboarding and team coordination. This discussion covers various aspects of proje",
+    "category": "general",
+    "project_name": "Demo Project Gamma",
+    "participants": 4,
+    "complexity_score": 0.49,
+    "created_date": "2024-09-24T16:31:56.707694",
+    "chunk_length": 284,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096253",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 10
+    }
+  },
+  {
+    "id": "02bbcf67-c920-4d11-aee9-38b717aeb1fb",
+    "conversation_id": "76295847-2c87-497d-80b5-965c2fbc1058",
+    "conversation_title": "Demo Conversation: Performance Optimization",
+    "chunk_index": 0,
+    "content": "Performance profiling identified bottlenecks in database query execution patterns. Caching implementation reduced average response times by 60% across all endpoints. Scalability testing demonstrates system behavior under increasing load conditions. Code optimization techniques improved throughput while maintaining functionality. Capacity planning ensures infrastructure can handle projected growth requirements. Resource monitoring provides insights into system utilization patterns and trends. Performance benchmarking establishes baseline metrics for continuous improvement. Caching implementation reduced average response times by 60% across all endpoints. Performance profiling identified bottlenecks in database query execution patterns. Performance benchmarki",
+    "category": "performance_optimization",
+    "project_name": "Demo Project Delta",
+    "participants": 3,
+    "complexity_score": 0.78,
+    "created_date": "2024-08-01T16:31:56.707701",
+    "chunk_length": 767,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096255",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 19
+    }
+  },
+  {
+    "id": "3849d502-d448-44ab-9731-23fbe7afdd84",
+    "conversation_id": "a9bdba73-ca20-4448-aa4d-e597a2b98734",
+    "conversation_title": "Demo Conversation: Performance Optimization",
+    "chunk_index": 0,
+    "content": "Code optimization techniques improved throughput while maintaining functionality. Scalability testing demonstrates system behavior under increasing load conditions. Database indexing improvements dramatically accelerated complex query performance. Memory optimization strategies eliminated memory leaks and reduced resource consumption. Resource monitoring provides insights into system utilization patterns and trends. Scalability testing demonstrates system behavior under increasing load conditions. Scalability testing demonstrates system behavior under increasing load conditions. Code optimization techniques improved throughput while maintaining functionality. Memory optimization strategies eliminated memory leaks and reduced resource consumption.",
+    "category": "performance_optimization",
+    "project_name": "Demo Project Gamma",
+    "participants": 3,
+    "complexity_score": 0.64,
+    "created_date": "2024-10-18T16:31:56.707709",
+    "chunk_length": 756,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096259",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 18
+    }
+  },
+  {
+    "id": "fe1bfeb5-d842-43c5-8cbf-846c0ed28033",
+    "conversation_id": "a9bdba73-ca20-4448-aa4d-e597a2b98734",
+    "conversation_title": "Demo Conversation: Performance Optimization",
+    "chunk_index": 1,
+    "content": "Capacity planning ensures infrastructure can handle projected growth requirements. Network optimization reduces latency and improves user experience signi",
+    "category": "performance_optimization",
+    "project_name": "Demo Project Gamma",
+    "participants": 3,
+    "complexity_score": 0.64,
+    "created_date": "2024-10-18T16:31:56.707709",
+    "chunk_length": 154,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096262",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 18
+    }
+  },
+  {
+    "id": "01cdeda0-c19f-4864-b00b-3bd9934cace0",
+    "conversation_id": "cb33a9d7-4bac-4b4b-b6d0-f9ce7aa64ccd",
+    "conversation_title": "Demo Conversation: Ai Ml Research",
+    "chunk_index": 0,
+    "content": "The attention mechanism effectively captures long-range dependencies in conversational data. The attention mechanism effectively captures long-range dependencies in conversational data. The attention mechanism effectively captures long-range dependencies in conversational data. Hyperparameter tuning using Bayesian optimization yielded 15% improvement in accuracy. Feature engineering revealed that contextual embeddings outperform static representations. The vector embedding model shows promising results for semantic similarity tasks. Transfer learning from pre-trained models reduces training time while maintaining quality. Cross-validation results demonstrate robust performance across different data distributions.",
+    "category": "ai_ml_research",
+    "project_name": "Demo Project Gamma",
+    "participants": 5,
+    "complexity_score": 0.62,
+    "created_date": "2024-12-02T16:31:56.707715",
+    "chunk_length": 722,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096265",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 18
+    }
+  },
+  {
+    "id": "c71c9da2-b007-423b-9313-2e32320be79d",
+    "conversation_id": "cb33a9d7-4bac-4b4b-b6d0-f9ce7aa64ccd",
+    "conversation_title": "Demo Conversation: Ai Ml Research",
+    "chunk_index": 1,
+    "content": "The vector embedding model shows promising results for semantic similarity tasks. Interpre",
+    "category": "ai_ml_research",
+    "project_name": "Demo Project Gamma",
+    "participants": 5,
+    "complexity_score": 0.62,
+    "created_date": "2024-12-02T16:31:56.707715",
+    "chunk_length": 90,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096268",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 18
+    }
+  },
+  {
+    "id": "a1d1b341-5fe1-446f-acf4-77e26777fbf7",
+    "conversation_id": "69bfe13d-7691-470b-a863-c4fa203f5fe6",
+    "conversation_title": "Demo Conversation: Strategic Planning",
+    "chunk_index": 0,
+    "content": "Investment priorities reflect both immediate needs and long-term strategic goals. Digital transformation initiatives modernize legacy systems and processes. Market expansion requires careful consideration of regional requirements and regulations. Market expansion requires careful consideration of regional requirements and regulations. Investment priorities reflect both immediate needs and long-term strategic goals. Digital transformation initiatives modernize legacy systems and processes. Market expansion requires careful consideration of regional requirements and regulations. Risk management framework addresses potential challenges and mitigation strategies. Stakeholder alignment ensures unified direction across all organizational levels.",
+    "category": "strategic_planning",
+    "project_name": "Demo Project Delta",
+    "participants": 3,
+    "complexity_score": 0.61,
+    "created_date": "2024-08-10T16:31:56.707721",
+    "chunk_length": 749,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096271",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 20
+    }
+  },
+  {
+    "id": "811639e5-5a17-4d63-8d05-ce6ad6e51496",
+    "conversation_id": "69bfe13d-7691-470b-a863-c4fa203f5fe6",
+    "conversation_title": "Demo Conversation: Strategic Planning",
+    "chunk_index": 1,
+    "content": "Innovation roadmap balances cutting-edge research with practical implementation needs. Competitive positioning analysis identifies opportunities for market differentiation. Change management ensures smooth transition during organizational transformations. Digital transformation initiatives modernize legacy systems and processes. Talent acquisition strategy focuses on critical sk",
+    "category": "strategic_planning",
+    "project_name": "Demo Project Delta",
+    "participants": 3,
+    "complexity_score": 0.61,
+    "created_date": "2024-08-10T16:31:56.707721",
+    "chunk_length": 381,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096273",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 20
+    }
+  },
+  {
+    "id": "5a33b940-d02a-4335-8544-1079276361d0",
+    "conversation_id": "2328f4f1-5351-464a-b2f5-5d11c2bf13e0",
+    "conversation_title": "Demo Conversation: Performance Optimization",
+    "chunk_index": 0,
+    "content": "Capacity planning ensures infrastructure can handle projected growth requirements. Caching implementation reduced average response times by 60% across all endpoints. Scalability testing demonstrates system behavior under increasing load conditions. Memory optimization strategies eliminated memory leaks and reduced resource consumption. Load testing reveals system capacity limits and scaling requirements. Code optimization techniques improved throughput while maintaining functionality. Resource monitoring provides insights into system utilization patterns and trends. Load testing reveals system capacity limits and scaling requirements. Performance benchmarking establishes baseline metrics for continuous improvement.",
+    "category": "performance_optimization",
+    "project_name": "Demo Project Alpha",
+    "participants": 5,
+    "complexity_score": 0.8,
+    "created_date": "2024-12-08T16:31:56.707729",
+    "chunk_length": 724,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096277",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 16
+    }
+  },
+  {
+    "id": "d6a30a4f-5196-4c1e-8c04-885228a79e63",
+    "conversation_id": "2328f4f1-5351-464a-b2f5-5d11c2bf13e0",
+    "conversation_title": "Demo Conversation: Performance Optimization",
+    "chunk_index": 1,
+    "content": "Network optimization reduces latency and improves user experience significantly. Load testing reveals system capacity limits and scaling requirements. Database indexing improvements dramatically accelerated co",
+    "category": "performance_optimization",
+    "project_name": "Demo Project Alpha",
+    "participants": 5,
+    "complexity_score": 0.8,
+    "created_date": "2024-12-08T16:31:56.707729",
+    "chunk_length": 209,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096280",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 16
+    }
+  },
+  {
+    "id": "2ad6eb4a-5978-4b64-9823-55bae344336b",
+    "conversation_id": "2231b3ff-5b18-481b-9907-ee4fc2f6bd26",
+    "conversation_title": "Demo Conversation: Strategic Planning",
+    "chunk_index": 0,
+    "content": "Long-term strategic planning aligns technology investments with business objectives. Performance measurement systems track progress toward strategic objectives. Innovation roadmap balances cutting-edge research with practical implementation needs. Digital transformation initiatives modernize legacy systems and processes. Performance measurement systems track progress toward strategic objectives. Investment priorities reflect both immediate needs and long-term strategic goals. Risk management framework addresses potential challenges and mitigation strategies. Competitive positioning analysis identifies opportunities for market differentiation. Risk management framework addresses potential challenges and mitigation strategies.",
+    "category": "strategic_planning",
+    "project_name": "Demo Project Delta",
+    "participants": 5,
+    "complexity_score": 0.81,
+    "created_date": "2025-05-28T16:31:56.707736",
+    "chunk_length": 734,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096283",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 24
+    }
+  },
+  {
+    "id": "4fcb30eb-68a7-4af9-9e9a-e2fcedaaa189",
+    "conversation_id": "2231b3ff-5b18-481b-9907-ee4fc2f6bd26",
+    "conversation_title": "Demo Conversation: Strategic Planning",
+    "chunk_index": 1,
+    "content": "Digital transformation initiatives modernize legacy systems and processes. Talent acquisition str",
+    "category": "strategic_planning",
+    "project_name": "Demo Project Delta",
+    "participants": 5,
+    "complexity_score": 0.81,
+    "created_date": "2025-05-28T16:31:56.707736",
+    "chunk_length": 97,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096285",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 24
+    }
+  },
+  {
+    "id": "ba99f520-0709-472f-b55f-b0152f9261ca",
+    "conversation_id": "d2af5c9d-15f9-4469-8298-defe7b75715c",
+    "conversation_title": "Demo Conversation: Performance Optimization",
+    "chunk_index": 0,
+    "content": "Load testing reveals system capacity limits and scaling requirements. Optimization strategies balance performance improvements with code maintainability. Scalability testing demonstrates system behavior under increasing load conditions. Resource monitoring provides insights into system utilization patterns and trends. Optimization strategies balance performance improvements with code maintainability. Network optimization reduces latency and improves user experience significantly. Network optimization reduces latency and improves user experience significantly. Memory optimization strategies eliminated memory leaks and reduced resource consumption. Capacity planning ensures infrastructure can handle projected growth requirements.",
+    "category": "performance_optimization",
+    "project_name": "Demo Project Beta",
+    "participants": 5,
+    "complexity_score": 0.47,
+    "created_date": "2025-02-07T16:31:56.707742",
+    "chunk_length": 737,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096289",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 21
+    }
+  },
+  {
+    "id": "b686ae12-ad52-4c14-9c6e-2fa358224871",
+    "conversation_id": "d2af5c9d-15f9-4469-8298-defe7b75715c",
+    "conversation_title": "Demo Conversation: Performance Optimization",
+    "chunk_index": 1,
+    "content": "Database indexing improvements dramatically accelerated complex query performance. Resource monitoring provides insights into system utilization patterns and trends. Scalability testing",
+    "category": "performance_optimization",
+    "project_name": "Demo Project Beta",
+    "participants": 5,
+    "complexity_score": 0.47,
+    "created_date": "2025-02-07T16:31:56.707742",
+    "chunk_length": 185,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096292",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 21
+    }
+  },
+  {
+    "id": "6003f63b-a721-43ad-bfdd-bc7115ed2be6",
+    "conversation_id": "0f92f734-16d7-4835-b09e-4a567123c208",
+    "conversation_title": "Demo Conversation: General",
+    "chunk_index": 0,
+    "content": "Innovation and experimentation drive competitive advantage and market leadership. Agile methodologies enable rapid iteration and responsive development cycles. This discussion covers various aspects of project requirements and implementation strategy. Regular reviews and feedback loops ensure continuous improvement and quality assurance. Continuous learning and skill development keep teams current with evolving technologies. Innovation and experimentation drive competitive advantage and market leadership. Innovation and experimentation drive competitive advantage and market leadership. Process improvement initiatives enhance efficiency and reduce operational overhead. Customer focus ensures solutions address real business needs and user requirements.",
+    "category": "general",
+    "project_name": "Demo Project Gamma",
+    "participants": 3,
+    "complexity_score": 0.48,
+    "created_date": "2024-09-01T16:31:56.707750",
+    "chunk_length": 760,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096295",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 11
+    }
+  },
+  {
+    "id": "cf396c77-0ef0-4004-9d01-096056f6c101",
+    "conversation_id": "0f92f734-16d7-4835-b09e-4a567123c208",
+    "conversation_title": "Demo Conversation: General",
+    "chunk_index": 1,
+    "content": "Best practices and industry standards guide development and operational procedures. Technical debt management balances new feature development with system maintenance. Technical debt management balances new feature development with system maintenance. Customer focus ensures solutions address real business needs and user",
+    "category": "general",
+    "project_name": "Demo Project Gamma",
+    "participants": 3,
+    "complexity_score": 0.48,
+    "created_date": "2024-09-01T16:31:56.707750",
+    "chunk_length": 321,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096298",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 11
+    }
+  },
+  {
+    "id": "ead2a4db-9192-4805-838c-710e96100aff",
+    "conversation_id": "ab80be53-54cc-414b-9d99-3e5f21a42c5e",
+    "conversation_title": "Demo Conversation: Strategic Planning",
+    "chunk_index": 0,
+    "content": "Change management ensures smooth transition during organizational transformations. Stakeholder alignment ensures unified direction across all organizational levels. Partnership strategy leverages external expertise to accelerate development timelines. Performance measurement systems track progress toward strategic objectives. Investment priorities reflect both immediate needs and long-term strategic goals. Digital transformation initiatives modernize legacy systems and processes. Long-term strategic planning aligns technology investments with business objectives. Innovation roadmap balances cutting-edge research with practical implementation needs. Risk management framework addresses potential challenges and mitigation strategies.",
+    "category": "strategic_planning",
+    "project_name": "Demo Project Beta",
+    "participants": 3,
+    "complexity_score": 0.86,
+    "created_date": "2025-02-14T16:31:56.707756",
+    "chunk_length": 740,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096301",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 19
+    }
+  },
+  {
+    "id": "f8b538ea-5471-4750-8bf3-41250d4e3ff0",
+    "conversation_id": "ab80be53-54cc-414b-9d99-3e5f21a42c5e",
+    "conversation_title": "Demo Conversation: Strategic Planning",
+    "chunk_index": 1,
+    "content": "Competitive positioning analysis identifies opportunities for market differentiation. Partnership strategy leverages external expertise to accelerate development timelines. Stakeholder alignment ensures unified direction ac",
+    "category": "strategic_planning",
+    "project_name": "Demo Project Beta",
+    "participants": 3,
+    "complexity_score": 0.86,
+    "created_date": "2025-02-14T16:31:56.707756",
+    "chunk_length": 223,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096304",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 19
+    }
+  },
+  {
+    "id": "da3fec0d-84d1-4e4e-8b22-3ea51617676d",
+    "conversation_id": "3f0aefb0-b0b7-473a-a7dc-075518891760",
+    "conversation_title": "Demo Conversation: General",
+    "chunk_index": 0,
+    "content": "Process improvement initiatives enhance efficiency and reduce operational overhead. Documentation and knowledge sharing facilitate onboarding and team coordination. Agile methodologies enable rapid iteration and responsive development cycles. Regular reviews and feedback loops ensure continuous improvement and quality assurance. This discussion covers various aspects of project requirements and implementation strategy. Documentation and knowledge sharing facilitate onboarding and team coordination. Agile methodologies enable rapid iteration and responsive development cycles. Quality assurance measures ensure deliverables meet established standards and expectations. Team collaboration and communication are essential for successful project delivery.",
+    "category": "general",
+    "project_name": "Demo Project Gamma",
+    "participants": 5,
+    "complexity_score": 0.42,
+    "created_date": "2024-09-24T16:31:56.707762",
+    "chunk_length": 757,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096308",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 19
+    }
+  },
+  {
+    "id": "bdc459ef-a6c6-4a79-affe-2099b6cc2e32",
+    "conversation_id": "3f0aefb0-b0b7-473a-a7dc-075518891760",
+    "conversation_title": "Demo Conversation: General",
+    "chunk_index": 1,
+    "content": "Innovation and experimentation drive competitive advantage and market leadership. Process improvement initiatives enhance efficiency and reduce operational overhead. Continuous learning and skill development keep teams current with evolving technologies. Documentation and knowledge sharing facilitate onboarding and team coordination. Technical debt management balances new feature development with",
+    "category": "general",
+    "project_name": "Demo Project Gamma",
+    "participants": 5,
+    "complexity_score": 0.42,
+    "created_date": "2024-09-24T16:31:56.707762",
+    "chunk_length": 399,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096311",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 19
+    }
+  },
+  {
+    "id": "ebe7a87c-cc26-4885-98c8-c440645e5de1",
+    "conversation_id": "a97ccb5e-7e0c-4f44-9d73-5a6b646239b8",
+    "conversation_title": "Demo Conversation: Project Management",
+    "chunk_index": 0,
+    "content": "Resource dependencies have been mapped and contingency plans are in place. Change management processes help handle evolving requirements efficiently. Timeline adjustments are necessary to accommodate scope changes requested by stakeholders. Timeline adjustments are necessary to accommodate scope changes requested by stakeholders. Team retrospectives provide valuable insights for continuous process improvement. Resource dependencies have been mapped and contingency plans are in place. Change management processes help handle evolving requirements efficiently. Documentation standards maintain knowledge sharing across distributed teams. Risk mitigation strategies include backup resources and alternative implementation paths.",
+    "category": "project_management",
+    "project_name": "Demo Project Beta",
+    "participants": 2,
+    "complexity_score": 0.47,
+    "created_date": "2024-07-05T16:31:56.707769",
+    "chunk_length": 730,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096314",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 11
+    }
+  },
+  {
+    "id": "1a8c87ec-6fa0-4c72-b6ad-bb38414a1429",
+    "conversation_id": "a97ccb5e-7e0c-4f44-9d73-5a6b646239b8",
+    "conversation_title": "Demo Conversation: Project Management",
+    "chunk_index": 1,
+    "content": "Quality gates ensure deliverables meet acceptance criteria before moving to next phase. Resource d",
+    "category": "project_management",
+    "project_name": "Demo Project Beta",
+    "participants": 2,
+    "complexity_score": 0.47,
+    "created_date": "2024-07-05T16:31:56.707769",
+    "chunk_length": 98,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096317",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 11
+    }
+  },
+  {
+    "id": "14f982bf-05dd-4080-9a16-5afa43dfcc2d",
+    "conversation_id": "2f9223f3-0c3f-4ac0-8bf8-54d10398873f",
+    "conversation_title": "Demo Conversation: Technical Development",
+    "chunk_index": 0,
+    "content": "Let's refactor the database queries to optimize performance and reduce latency. The testing strategy should include unit tests, integration tests, and end-to-end scenarios. The performance metrics show we can achieve significant improvements by restructuring the data flow. Security considerations require implementing proper input validation and sanitization. Security considerations require implementing proper input validation and sanitization. The deployment pipeline needs automation to reduce manual errors. The testing strategy should include unit tests, integration tests, and end-to-end scenarios. We should implement better error handling mechanisms and add comprehensive logging. The API documentation s",
+    "category": "technical_development",
+    "project_name": "Demo Project Alpha",
+    "participants": 2,
+    "complexity_score": 0.74,
+    "created_date": "2025-01-16T16:31:56.707775",
+    "chunk_length": 714,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096319",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 18
+    }
+  },
+  {
+    "id": "bc342b1e-fff6-491f-bbc1-7a30e3e2d7ef",
+    "conversation_id": "6fa31fe9-0a2b-4b3f-abc5-544af48582d1",
+    "conversation_title": "Demo Conversation: Ai Ml Research",
+    "chunk_index": 0,
+    "content": "Data preprocessing pipeline handles noise and inconsistencies in real-world datasets. Model evaluation metrics indicate excellent precision and recall for classification tasks. Interpretability analysis helps understand model decision-making processes. The attention mechanism effectively captures long-range dependencies in conversational data. Hyperparameter tuning using Bayesian optimization yielded 15% improvement in accuracy. Ensemble methods combining multiple models improve overall system robustness. Neural architecture search identified optimal network topology for our specific use case. Interpretability analysis helps understand model decision-making processes. Cross-validation results demonstrate robust perform",
+    "category": "ai_ml_research",
+    "project_name": "Demo Project Alpha",
+    "participants": 3,
+    "complexity_score": 0.54,
+    "created_date": "2024-12-27T16:31:56.707781",
+    "chunk_length": 728,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096321",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 25
+    }
+  },
+  {
+    "id": "12c70211-90fb-4e6d-9d78-2c2bcb179f8b",
+    "conversation_id": "aa9081e7-85a3-47da-a5ef-d0ab3a9c9819",
+    "conversation_title": "Demo Conversation: Data Analytics",
+    "chunk_index": 0,
+    "content": "Data warehouse optimization reduces query response times and improves efficiency. A/B testing results demonstrate significant improvement in user engagement metrics. Data quality assessment identifies inconsistencies requiring attention and correction. Machine learning models identify anomalies and patterns in large datasets. Statistical modeling provides insights into key performance indicators and trends. Data analysis reveals clear patterns in user behavior and system performance metrics. ETL pipeline processing ensures clean, consistent data for analysis workflows. Reporting dashboard visualizes critical business metrics in real-time. Business intelligence tools enable self-service analytics for stakeholders.",
+    "category": "data_analytics",
+    "project_name": "Demo Project Alpha",
+    "participants": 5,
+    "complexity_score": 0.88,
+    "created_date": "2025-05-16T16:31:56.707787",
+    "chunk_length": 722,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096325",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 20
+    }
+  },
+  {
+    "id": "fb66c65a-35d9-4684-9f93-6b7392c890cb",
+    "conversation_id": "aa9081e7-85a3-47da-a5ef-d0ab3a9c9819",
+    "conversation_title": "Demo Conversation: Data Analytics",
+    "chunk_index": 1,
+    "content": "Statistical modeling provides insights into key performance indicators and trends. Data analysis reveals clear patterns in user behavior and system performance metrics. A/B testing results demonstrate significant improvement in user engagement metrics. Data warehouse optimization reduces query response times and improves efficiency. A/B testing r",
+    "category": "data_analytics",
+    "project_name": "Demo Project Alpha",
+    "participants": 5,
+    "complexity_score": 0.88,
+    "created_date": "2025-05-16T16:31:56.707787",
+    "chunk_length": 348,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096327",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 20
+    }
+  },
+  {
+    "id": "98368220-6ff8-4154-8b82-d57bd2cee2e5",
+    "conversation_id": "14be4863-5c6e-4f9e-8615-6bdf278809f3",
+    "conversation_title": "Demo Conversation: Business Analysis",
+    "chunk_index": 0,
+    "content": "The cost-benefit analysis suggests focusing on core functionality first before expanding to advanced features. Strategic partnerships could accelerate market entry and reduce development overhead. The cost-benefit analysis suggests focusing on core functionality first before expanding to advanced features. Quality assurance processes should be strengthened to maintain high customer satisfaction. Budget planning must account for scalability requirements and infrastructure costs. Based on the stakeholder feedback, we should prioritize features that deliver immediate business value. Based on the stakeholder feedback, we should prioritize features that deliver immediate business value. Resource allocation should balance feature development with technical debt reduction.",
+    "category": "business_analysis",
+    "project_name": "Demo Project Gamma",
+    "participants": 4,
+    "complexity_score": 0.82,
+    "created_date": "2024-08-19T16:31:56.707793",
+    "chunk_length": 776,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096330",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 25
+    }
+  },
+  {
+    "id": "e3a92b70-7a87-48c9-8666-3433c340c10f",
+    "conversation_id": "14be4863-5c6e-4f9e-8615-6bdf278809f3",
+    "conversation_title": "Demo Conversation: Business Analysis",
+    "chunk_index": 1,
+    "content": "Strategic partnerships could accelerate market entry and reduce development overhead. Competitive analysis reveals opportunities to differentiate through superior user experience. Customer feedback emphasizes the need for intuitive interfaces and streamlined wo",
+    "category": "business_analysis",
+    "project_name": "Demo Project Gamma",
+    "participants": 4,
+    "complexity_score": 0.82,
+    "created_date": "2024-08-19T16:31:56.707793",
+    "chunk_length": 261,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096334",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 25
+    }
+  },
+  {
+    "id": "24903b3d-5b01-4735-9d19-ccea9ac805d2",
+    "conversation_id": "4a3b03ad-5a16-449d-bde3-f58477a62c22",
+    "conversation_title": "Demo Conversation: Ai Ml Research",
+    "chunk_index": 0,
+    "content": "Interpretability analysis helps understand model decision-making processes. Cross-validation results demonstrate robust performance across different data distributions. Neural architecture search identified optimal network topology for our specific use case. Model training convergence improved significantly after adjusting the learning rate schedule. Model training convergence improved significantly after adjusting the learning rate schedule. Ensemble methods combining multiple models improve overall system robustness. Data preprocessing pipeline handles noise and inconsistencies in real-world datasets. Model training convergence improved significantly after adjusti",
+    "category": "ai_ml_research",
+    "project_name": "Demo Project Beta",
+    "participants": 2,
+    "complexity_score": 0.7,
+    "created_date": "2025-01-10T16:31:56.707800",
+    "chunk_length": 674,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096338",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 21
+    }
+  },
+  {
+    "id": "0aded0dc-fe1e-4089-95f4-fb76b7ec1cd4",
+    "conversation_id": "d8101f6a-ba78-4b4e-b4e1-1691828945e7",
+    "conversation_title": "Demo Conversation: Project Management",
+    "chunk_index": 0,
+    "content": "Stakeholder engagement ensures alignment between business needs and technical solutions. Quality gates ensure deliverables meet acceptance criteria before moving to next phase. Team retrospectives provide valuable insights for continuous process improvement. Timeline adjustments are necessary to accommodate scope changes requested by stakeholders. Cross-functional collaboration is essential for successful project execution. Team coordination requires clear communication channels and regular status updates. Quality gates ensure deliverables meet acceptance criteria before moving to next phase. Timeline adjustments are necessary to accommodate scope changes requested by stakeholders. Stakeholder engagement ensures alignment between business needs and technical solutions.",
+    "category": "project_management",
+    "project_name": "Demo Project Beta",
+    "participants": 3,
+    "complexity_score": 0.5,
+    "created_date": "2025-02-28T16:31:56.707806",
+    "chunk_length": 779,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096341",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 7
+    }
+  },
+  {
+    "id": "eeb26504-f0d6-4f5f-997d-6f9dc692e8fc",
+    "conversation_id": "d8101f6a-ba78-4b4e-b4e1-1691828945e7",
+    "conversation_title": "Demo Conversation: Project Management",
+    "chunk_index": 1,
+    "content": "Team coordination requires clear communication channels and regular status updates. Stakeholder engagement ensures alig",
+    "category": "project_management",
+    "project_name": "Demo Project Beta",
+    "participants": 3,
+    "complexity_score": 0.5,
+    "created_date": "2025-02-28T16:31:56.707806",
+    "chunk_length": 119,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096343",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 7
+    }
+  },
+  {
+    "id": "4f5466c9-5ecb-4be1-969b-b059324b54ca",
+    "conversation_id": "3e95395b-fd98-4c02-87a4-7e3101e9b80c",
+    "conversation_title": "Demo Conversation: Business Analysis",
+    "chunk_index": 0,
+    "content": "Product roadmap alignment with customer needs is critical for long-term success. Based on the stakeholder feedback, we should prioritize features that deliver immediate business value. ROI projections show positive returns within 18 months if we maintain current development pace. Market research indicates strong demand for automation capabilities in our target segment. ROI projections show positive returns within 18 months if we maintain current development pace. ROI projections show positive returns within 18 months if we maintain current development pace. Customer feedback emphasizes the need for intuitive interfaces and streamlined workflows. Customer feedback emphasizes the need for intuitive interfaces and streamlined workflows.",
+    "category": "business_analysis",
+    "project_name": "Demo Project Delta",
+    "participants": 2,
+    "complexity_score": 0.67,
+    "created_date": "2024-10-11T16:31:56.707812",
+    "chunk_length": 743,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096392",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 8
+    }
+  },
+  {
+    "id": "de9b98ee-85aa-487e-94e0-4571cc2f228a",
+    "conversation_id": "3e95395b-fd98-4c02-87a4-7e3101e9b80c",
+    "conversation_title": "Demo Conversation: Business Analysis",
+    "chunk_index": 1,
+    "content": "Risk assessment highlights the importance of robust data backup and recovery procedures. Resource allocation should balance feature development with technical debt reduction. Product roadmap alignment with customer needs",
+    "category": "business_analysis",
+    "project_name": "Demo Project Delta",
+    "participants": 2,
+    "complexity_score": 0.67,
+    "created_date": "2024-10-11T16:31:56.707812",
+    "chunk_length": 220,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096397",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 8
+    }
+  },
+  {
+    "id": "728ee722-a0f6-4649-99c3-dd42f1aaf4d3",
+    "conversation_id": "44fd9275-5ca2-47d7-93a0-8ed49a312e34",
+    "conversation_title": "Demo Conversation: System Architecture",
+    "chunk_index": 0,
+    "content": "Container orchestration simplifies deployment and resource management processes. Load balancing distributes traffic efficiently across multiple service instances. Monitoring and observability tools provide comprehensive system visibility and performance insights. Monitoring and observability tools provide comprehensive system visibility and performance insights. Event-driven architecture enables loose coupling between system components. Security architecture implements defense-in-depth principles throughout the stack. Container orchestration simplifies deployment and resource management processes. Event-driven architecture enables loose coupling between system components. Container orchestration simplifies deployment and resource management processes.",
+    "category": "system_architecture",
+    "project_name": "Demo Project Gamma",
+    "participants": 5,
+    "complexity_score": 0.58,
+    "created_date": "2024-09-19T16:31:56.707819",
+    "chunk_length": 761,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096403",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 8
+    }
+  },
+  {
+    "id": "8076b03e-a4a2-478a-8274-f33a04fc10c5",
+    "conversation_id": "44fd9275-5ca2-47d7-93a0-8ed49a312e34",
+    "conversation_title": "Demo Conversation: System Architecture",
+    "chunk_index": 1,
+    "content": "Data architecture supports both transactional and analytical workloads efficiently. Container orchestration simplifies deployment and resource management processes. Disaster recovery procedures ensure business continuity during system failures. Monitoring and observability tools provide comprehensive system visibility and performance insights. The micros",
+    "category": "system_architecture",
+    "project_name": "Demo Project Gamma",
+    "participants": 5,
+    "complexity_score": 0.58,
+    "created_date": "2024-09-19T16:31:56.707819",
+    "chunk_length": 356,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096406",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 8
+    }
+  },
+  {
+    "id": "ef6ccdb5-195b-469a-9a7d-72eea50f1cd2",
+    "conversation_id": "da1f129b-50e5-4108-969e-1b39ba6d5ae1",
+    "conversation_title": "Demo Conversation: System Architecture",
+    "chunk_index": 0,
+    "content": "Disaster recovery procedures ensure business continuity during system failures. Caching layers significantly reduce database load and improve response times. Security architecture implements defense-in-depth principles throughout the stack. Database sharding strategy supports horizontal scaling requirements effectively. Monitoring and observability tools provide comprehensive system visibility and performance insights. Container orchestration simplifies deployment and resource management processes. Event-driven architecture enables loose coupling between system components. Data architecture supports both transactional and analytical workloads efficiently. Data architecture supports both transactional and analytical workloads efficiently.",
+    "category": "system_architecture",
+    "project_name": "Demo Project Delta",
+    "participants": 5,
+    "complexity_score": 0.39,
+    "created_date": "2024-06-23T16:31:56.707826",
+    "chunk_length": 747,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096410",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 23
+    }
+  },
+  {
+    "id": "8e0fe954-6b54-44af-863e-93bf8a6eba33",
+    "conversation_id": "da1f129b-50e5-4108-969e-1b39ba6d5ae1",
+    "conversation_title": "Demo Conversation: System Architecture",
+    "chunk_index": 1,
+    "content": "The microservices architecture provides excellent scalability and maintainability benefits. Service mesh provides observability, security, and traffic management features. API gateway implementation ensures proper routing, security, and rate limiting ca",
+    "category": "system_architecture",
+    "project_name": "Demo Project Delta",
+    "participants": 5,
+    "complexity_score": 0.39,
+    "created_date": "2024-06-23T16:31:56.707826",
+    "chunk_length": 253,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096412",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 23
+    }
+  },
+  {
+    "id": "7e63bd70-bd09-46d6-a5dc-8d1c6afb2bf0",
+    "conversation_id": "b6fbb726-c20c-4525-a5c2-6fd3acbf9f05",
+    "conversation_title": "Demo Conversation: System Architecture",
+    "chunk_index": 0,
+    "content": "Database sharding strategy supports horizontal scaling requirements effectively. API gateway implementation ensures proper routing, security, and rate limiting capabilities. Caching layers significantly reduce database load and improve response times. Data architecture supports both transactional and analytical workloads efficiently. API gateway implementation ensures proper routing, security, and rate limiting capabilities. Event-driven architecture enables loose coupling between system components. API gateway implementation ensures proper routing, security, and rate limiting capabilities. Load balancing distributes traffic efficiently across multiple service instances. Caching layers significantly reduce database load and improve response times.",
+    "category": "system_architecture",
+    "project_name": "Demo Project Gamma",
+    "participants": 4,
+    "complexity_score": 0.35,
+    "created_date": "2024-10-25T16:31:56.707832",
+    "chunk_length": 757,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096419",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 19
+    }
+  },
+  {
+    "id": "68c8f8c6-fa2d-4f88-beb1-324fb8acc255",
+    "conversation_id": "b6fbb726-c20c-4525-a5c2-6fd3acbf9f05",
+    "conversation_title": "Demo Conversation: System Architecture",
+    "chunk_index": 1,
+    "content": "Event-driven architecture enables loose coupling between system components. Monitoring and observability tools provide comprehensive system visibility and performance insights. Event-driven architecture enables loose coupl",
+    "category": "system_architecture",
+    "project_name": "Demo Project Gamma",
+    "participants": 4,
+    "complexity_score": 0.35,
+    "created_date": "2024-10-25T16:31:56.707832",
+    "chunk_length": 222,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096422",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 19
+    }
+  },
+  {
+    "id": "2803b381-03bf-4b17-ab54-e035039b7c20",
+    "conversation_id": "26b54086-c812-4714-99a6-3fdea5916c79",
+    "conversation_title": "Demo Conversation: System Architecture",
+    "chunk_index": 0,
+    "content": "Container orchestration simplifies deployment and resource management processes. Container orchestration simplifies deployment and resource management processes. Database sharding strategy supports horizontal scaling requirements effectively. Data architecture supports both transactional and analytical workloads efficiently. Monitoring and observability tools provide comprehensive system visibility and performance insights. Security architecture implements defense-in-depth principles throughout the stack. Load balancing distributes traffic efficiently across multiple service instances. API gateway implementation ensures proper routing, security, and rate limiting capabilities. API gateway implementation ensures proper routing, security, and rate limiting capabilities.",
+    "category": "system_architecture",
+    "project_name": "Demo Project Gamma",
+    "participants": 3,
+    "complexity_score": 0.69,
+    "created_date": "2024-10-25T16:31:56.707839",
+    "chunk_length": 778,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096425",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 22
+    }
+  },
+  {
+    "id": "99573564-06d1-4e86-968a-ca98546cc6bc",
+    "conversation_id": "26b54086-c812-4714-99a6-3fdea5916c79",
+    "conversation_title": "Demo Conversation: System Architecture",
+    "chunk_index": 1,
+    "content": "Disaster recovery procedures ensure business continuity during system failures. Service mesh provides observability, secur",
+    "category": "system_architecture",
+    "project_name": "Demo Project Gamma",
+    "participants": 3,
+    "complexity_score": 0.69,
+    "created_date": "2024-10-25T16:31:56.707839",
+    "chunk_length": 122,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096427",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 22
+    }
+  },
+  {
+    "id": "99452065-0845-4d34-8df3-c1401e65dec3",
+    "conversation_id": "1e309622-6aae-4a67-b81b-70138fd16a0a",
+    "conversation_title": "Demo Conversation: Project Management",
+    "chunk_index": 0,
+    "content": "Timeline adjustments are necessary to accommodate scope changes requested by stakeholders. Change management processes help handle evolving requirements efficiently. Progress tracking shows we're on schedule for the major milestone deliverables. Stakeholder engagement ensures alignment between business needs and technical solutions. Timeline adjustments are necessary to accommodate scope changes requested by stakeholders. Risk mitigation strategies include backup resources and alternative implementation paths. Change management processes help handle evolving requirements efficiently. Sprint planning session identified key deliverables for the upcoming development cycle. Cross-functional collaboration is essential for successful project execution.",
+    "category": "project_management",
+    "project_name": "Demo Project Delta",
+    "participants": 2,
+    "complexity_score": 0.52,
+    "created_date": "2025-04-29T16:31:56.707845",
+    "chunk_length": 756,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096431",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 10
+    }
+  },
+  {
+    "id": "29f2fbe2-bc52-46d7-8561-d4b8de100f73",
+    "conversation_id": "1e309622-6aae-4a67-b81b-70138fd16a0a",
+    "conversation_title": "Demo Conversation: Project Management",
+    "chunk_index": 1,
+    "content": "Timeline adjustments are necessary to accommodate scope cha",
+    "category": "project_management",
+    "project_name": "Demo Project Delta",
+    "participants": 2,
+    "complexity_score": 0.52,
+    "created_date": "2025-04-29T16:31:56.707845",
+    "chunk_length": 59,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096433",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 10
+    }
+  },
+  {
+    "id": "7100295b-5628-4fe6-97ed-9f0d8470095e",
+    "conversation_id": "4ca3b754-dc7d-4769-9ef7-5db2c7b4e819",
+    "conversation_title": "Demo Conversation: Strategic Planning",
+    "chunk_index": 0,
+    "content": "Performance measurement systems track progress toward strategic objectives. Innovation roadmap balances cutting-edge research with practical implementation needs. Talent acquisition strategy focuses on critical skills needed for future growth. Investment priorities reflect both immediate needs and long-term strategic goals. Competitive positioning analysis identifies opportunities for market differentiation. Stakeholder alignment ensures unified direction across all organizational levels. Change management ensures smooth transition during organizational transformations. Change management ensures smooth transition during organizational transformations. Competitive positioning analysis identifies opportunities for market differentiation.",
+    "category": "strategic_planning",
+    "project_name": "Demo Project Beta",
+    "participants": 2,
+    "complexity_score": 0.38,
+    "created_date": "2025-03-12T16:31:56.707851",
+    "chunk_length": 745,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096437",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 7
+    }
+  },
+  {
+    "id": "69e4d3f1-824b-4ae4-af98-2f1b69301f4e",
+    "conversation_id": "4ca3b754-dc7d-4769-9ef7-5db2c7b4e819",
+    "conversation_title": "Demo Conversation: Strategic Planning",
+    "chunk_index": 1,
+    "content": "Partnership strategy leverages external expertise to accelerate development timelines. Risk management framework addresses potential cha",
+    "category": "strategic_planning",
+    "project_name": "Demo Project Beta",
+    "participants": 2,
+    "complexity_score": 0.38,
+    "created_date": "2025-03-12T16:31:56.707851",
+    "chunk_length": 136,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096439",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 7
+    }
+  },
+  {
+    "id": "7ce5129a-37c9-4865-b547-e5be2cd0ade3",
+    "conversation_id": "d0b654d6-1ffc-445e-a1f7-72f8b3187b4b",
+    "conversation_title": "Demo Conversation: System Architecture",
+    "chunk_index": 0,
+    "content": "API gateway implementation ensures proper routing, security, and rate limiting capabilities. Load balancing distributes traffic efficiently across multiple service instances. Data architecture supports both transactional and analytical workloads efficiently. Event-driven architecture enables loose coupling between system components. Caching layers significantly reduce database load and improve response times. Data architecture supports both transactional and analytical workloads efficiently. Event-driven architecture enables loose coupling between system components. The microservices architecture provides excellent scalability and maintainability benefits. Data architecture supports both transactio",
+    "category": "system_architecture",
+    "project_name": "Demo Project Delta",
+    "participants": 5,
+    "complexity_score": 0.43,
+    "created_date": "2025-05-21T16:31:56.707860",
+    "chunk_length": 707,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096442",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 12
+    }
+  },
+  {
+    "id": "24093c4d-5853-401b-941c-45b17bc5d8b0",
+    "conversation_id": "9363b90c-394d-4e8a-aeaf-2099e8c538ae",
+    "conversation_title": "Demo Conversation: Technical Development",
+    "chunk_index": 0,
+    "content": "Security considerations require implementing proper input validation and sanitization. The API documentation should be updated to reflect the latest changes. We should implement better error handling mechanisms and add comprehensive logging. Code review feedback suggests we should simplify the authentication flow. Security considerations require implementing proper input validation and sanitization. We need to implement proper caching strategies to improve response times. The performance metrics show we can achieve significant improvements by restructuring the data flow. The testing strategy should include unit tests, integration tests, and end-to-end scenarios. The microservices architecture will pro",
+    "category": "technical_development",
+    "project_name": "Demo Project Beta",
+    "participants": 3,
+    "complexity_score": 0.33,
+    "created_date": "2025-05-07T16:31:56.707865",
+    "chunk_length": 710,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096444",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 7
+    }
+  },
+  {
+    "id": "a1c0d595-ee36-4a42-81d3-b41afff56927",
+    "conversation_id": "b7794475-a86c-40be-a3fe-97fb7f25c492",
+    "conversation_title": "Demo Conversation: Project Management",
+    "chunk_index": 0,
+    "content": "Quality gates ensure deliverables meet acceptance criteria before moving to next phase. Cross-functional collaboration is essential for successful project execution. Team coordination requires clear communication channels and regular status updates. Stakeholder engagement ensures alignment between business needs and technical solutions. Change management processes help handle evolving requirements efficiently. Cross-functional collaboration is essential for successful project execution. Progress tracking shows we're on schedule for the major milestone deliverables. Documentation standards maintain knowledge sharing across distributed teams. Team coordination requires clear communication channels and regular status updates. Qual",
+    "category": "project_management",
+    "project_name": "Demo Project Gamma",
+    "participants": 5,
+    "complexity_score": 0.8,
+    "created_date": "2024-07-31T16:31:56.707872",
+    "chunk_length": 737,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096447",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 19
+    }
+  },
+  {
+    "id": "e1d33470-3f32-4a5f-bb25-68057f529110",
+    "conversation_id": "de3dec5b-b2dd-4f44-87d9-407fc851b20b",
+    "conversation_title": "Demo Conversation: Performance Optimization",
+    "chunk_index": 0,
+    "content": "Scalability testing demonstrates system behavior under increasing load conditions. Network optimization reduces latency and improves user experience significantly. Scalability testing demonstrates system behavior under increasing load conditions. Database indexing improvements dramatically accelerated complex query performance. Optimization strategies balance performance improvements with code maintainability. Caching implementation reduced average response times by 60% across all endpoints. Network optimization reduces latency and improves user experience significantly. Performance benchmarking establishes baseline metrics for continuous improvement. Database indexing improvements dramati",
+    "category": "performance_optimization",
+    "project_name": "Demo Project Gamma",
+    "participants": 3,
+    "complexity_score": 0.54,
+    "created_date": "2024-11-27T16:31:56.707878",
+    "chunk_length": 698,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096450",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 16
+    }
+  },
+  {
+    "id": "c251a1e3-da28-49e7-b723-7e9d27673b57",
+    "conversation_id": "6f2b1947-6d1c-4628-bd9d-f195b5631adc",
+    "conversation_title": "Demo Conversation: Project Management",
+    "chunk_index": 0,
+    "content": "Timeline adjustments are necessary to accommodate scope changes requested by stakeholders. Team coordination requires clear communication channels and regular status updates. Team coordination requires clear communication channels and regular status updates. Cross-functional collaboration is essential for successful project execution. Change management processes help handle evolving requirements efficiently. Resource dependencies have been mapped and contingency plans are in place. Risk mitigation strategies include backup resources and alternative implementation paths. Timeline adjustments are necessary to accommodate scope changes requested by stakeholders. Team retrospectives provide valuable insights for continuous process improvement.",
+    "category": "project_management",
+    "project_name": "Demo Project Delta",
+    "participants": 5,
+    "complexity_score": 0.7,
+    "created_date": "2024-07-31T16:31:56.707883",
+    "chunk_length": 749,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096453",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 6
+    }
+  },
+  {
+    "id": "2cc55ba0-d5c7-4424-b606-ff3905e1ff47",
+    "conversation_id": "6f2b1947-6d1c-4628-bd9d-f195b5631adc",
+    "conversation_title": "Demo Conversation: Project Management",
+    "chunk_index": 1,
+    "content": "Timeline adjustments are necessary to accommodate scope changes requested by stakeholders. Change management processes help handle evolving requirements efficiently. Timeline adjustments are necessary to",
+    "category": "project_management",
+    "project_name": "Demo Project Delta",
+    "participants": 5,
+    "complexity_score": 0.7,
+    "created_date": "2024-07-31T16:31:56.707883",
+    "chunk_length": 203,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096456",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 6
+    }
+  },
+  {
+    "id": "3a8e27c7-62c2-4236-a1f2-1e6fa2d7ee2a",
+    "conversation_id": "be22b95d-0901-4448-a1ea-b342a8001b91",
+    "conversation_title": "Demo Conversation: Ai Ml Research",
+    "chunk_index": 0,
+    "content": "Hyperparameter tuning using Bayesian optimization yielded 15% improvement in accuracy. The attention mechanism effectively captures long-range dependencies in conversational data. Model training convergence improved significantly after adjusting the learning rate schedule. Data preprocessing pipeline handles noise and inconsistencies in real-world datasets. Neural architecture search identified optimal network topology for our specific use case. The vector embedding model shows promising results for semantic similarity tasks. Neural architecture search identified optimal network topology for our specific use case. The attention mechanism effectively captures long-range dependencies in conversational data.",
+    "category": "ai_ml_research",
+    "project_name": "Demo Project Gamma",
+    "participants": 3,
+    "complexity_score": 0.67,
+    "created_date": "2025-03-27T16:31:56.707891",
+    "chunk_length": 714,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096461",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 24
+    }
+  },
+  {
+    "id": "bea31357-b79c-438d-af49-717b4e0474d5",
+    "conversation_id": "be22b95d-0901-4448-a1ea-b342a8001b91",
+    "conversation_title": "Demo Conversation: Ai Ml Research",
+    "chunk_index": 1,
+    "content": "Transfer learning from pre-trained models reduces training time while maintaining quality. Transfer learning from pre-trained models reduc",
+    "category": "ai_ml_research",
+    "project_name": "Demo Project Gamma",
+    "participants": 3,
+    "complexity_score": 0.67,
+    "created_date": "2025-03-27T16:31:56.707891",
+    "chunk_length": 138,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096493",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 24
+    }
+  },
+  {
+    "id": "7a344b00-ff75-44dd-b24f-d6af1586de58",
+    "conversation_id": "e22e5bdc-ee69-4f87-a0d6-46fb9018d410",
+    "conversation_title": "Demo Conversation: Project Management",
+    "chunk_index": 0,
+    "content": "Team coordination requires clear communication channels and regular status updates. Progress tracking shows we're on schedule for the major milestone deliverables. Documentation standards maintain knowledge sharing across distributed teams. Quality gates ensure deliverables meet acceptance criteria before moving to next phase. Team retrospectives provide valuable insights for continuous process improvement. Timeline adjustments are necessary to accommodate scope changes requested by stakeholders. Progress tracking shows we're on schedule for the major milestone deliverables. Cross-functional collaboration is essential for successful project execution. Progress tracking shows we're on schedule for the major milestone deliverables.",
+    "category": "project_management",
+    "project_name": "Demo Project Gamma",
+    "participants": 2,
+    "complexity_score": 0.46,
+    "created_date": "2025-02-03T16:31:56.707896",
+    "chunk_length": 739,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096510",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 17
+    }
+  },
+  {
+    "id": "9d6a374d-3f9b-48ed-bc59-e5bde4788f54",
+    "conversation_id": "e22e5bdc-ee69-4f87-a0d6-46fb9018d410",
+    "conversation_title": "Demo Conversation: Project Management",
+    "chunk_index": 1,
+    "content": "Resource dependencies have been mapped and contingency plans are in place. Sprint planning session identified key deliverables for the upcoming development cycle. Stakeholder engagement ensures alignment between business needs and technical solutions. Stakeholder engagement ensures alignment between business needs and technical solutions. Team retrospectives provide valuable ins",
+    "category": "project_management",
+    "project_name": "Demo Project Gamma",
+    "participants": 2,
+    "complexity_score": 0.46,
+    "created_date": "2025-02-03T16:31:56.707896",
+    "chunk_length": 381,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096514",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 17
+    }
+  },
+  {
+    "id": "d5950954-1f06-4145-b0c8-3d4b7323695c",
+    "conversation_id": "8964ea59-cde0-46ff-aec9-20a0f1d65362",
+    "conversation_title": "Demo Conversation: Data Analytics",
+    "chunk_index": 0,
+    "content": "Customer segmentation analysis reveals distinct user groups and preferences. A/B testing results demonstrate significant improvement in user engagement metrics. Data warehouse optimization reduces query response times and improves efficiency. A/B testing results demonstrate significant improvement in user engagement metrics. Business intelligence tools enable self-service analytics for stakeholders. Data warehouse optimization reduces query response times and improves efficiency. Performance benchmarking shows substantial improvements over previous implementations. Reporting dashboard visualizes critical business metrics in real-time. Data analysis reveals clear patterns in user behavior and system performance metrics. Machine l",
+    "category": "data_analytics",
+    "project_name": "Demo Project Delta",
+    "participants": 4,
+    "complexity_score": 0.85,
+    "created_date": "2025-04-18T16:31:56.707903",
+    "chunk_length": 738,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096517",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 12
+    }
+  },
+  {
+    "id": "1bf72da9-4f92-4cec-9353-45e9b5f5155e",
+    "conversation_id": "2a9706b8-4239-4441-8b8b-ba6c694dc0d2",
+    "conversation_title": "Demo Conversation: General",
+    "chunk_index": 0,
+    "content": "Regular reviews and feedback loops ensure continuous improvement and quality assurance. Regular reviews and feedback loops ensure continuous improvement and quality assurance. Customer focus ensures solutions address real business needs and user requirements. Process improvement initiatives enhance efficiency and reduce operational overhead. Regular reviews and feedback loops ensure continuous improvement and quality assurance. Quality assurance measures ensure deliverables meet established standards and expectations. Customer focus ensures solutions address real business needs and user requirements. Quality assurance measures ensure deliverables meet established standards and expectations. Regular reviews and feedback loops ensure continuous improvement and quality assurance.",
+    "category": "general",
+    "project_name": "Demo Project Delta",
+    "participants": 5,
+    "complexity_score": 0.73,
+    "created_date": "2024-10-02T16:31:56.707908",
+    "chunk_length": 787,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096521",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 19
+    }
+  },
+  {
+    "id": "5cb49808-6d52-4127-8651-d09add4d242b",
+    "conversation_id": "2a9706b8-4239-4441-8b8b-ba6c694dc0d2",
+    "conversation_title": "Demo Conversation: General",
+    "chunk_index": 1,
+    "content": "Documentation and knowledge sharing facilitate onboarding and team coordination. Team collaboration and communication are essential for successful project delivery. Continuous learning and skill development keep teams current with evolving technologies. Regular reviews and feedback loops ensure continuous im",
+    "category": "general",
+    "project_name": "Demo Project Delta",
+    "participants": 5,
+    "complexity_score": 0.73,
+    "created_date": "2024-10-02T16:31:56.707908",
+    "chunk_length": 309,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096523",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 19
+    }
+  },
+  {
+    "id": "702f3b90-fe83-4a5e-8b6a-1f2f463860cd",
+    "conversation_id": "1d1bb9b2-f0f1-4a14-85ff-1eba3079e271",
+    "conversation_title": "Demo Conversation: Project Management",
+    "chunk_index": 0,
+    "content": "Stakeholder engagement ensures alignment between business needs and technical solutions. Sprint planning session identified key deliverables for the upcoming development cycle. Team coordination requires clear communication channels and regular status updates. Stakeholder engagement ensures alignment between business needs and technical solutions. Quality gates ensure deliverables meet acceptance criteria before moving to next phase. Sprint planning session identified key deliverables for the upcoming development cycle. Sprint planning session identified key deliverables for the upcoming development cycle. Sprint planning session identified key deliverables for the upcoming development cycle. Progress tracking shows we're on schedule for the major milestone deliverables.",
+    "category": "project_management",
+    "project_name": "Demo Project Beta",
+    "participants": 3,
+    "complexity_score": 0.66,
+    "created_date": "2024-08-29T16:31:56.707914",
+    "chunk_length": 781,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096526",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 14
+    }
+  },
+  {
+    "id": "ad3c573b-6545-4221-b668-dd323d487df3",
+    "conversation_id": "1d1bb9b2-f0f1-4a14-85ff-1eba3079e271",
+    "conversation_title": "Demo Conversation: Project Management",
+    "chunk_index": 1,
+    "content": "Resource dependencies have been mapped and contingency plans ar",
+    "category": "project_management",
+    "project_name": "Demo Project Beta",
+    "participants": 3,
+    "complexity_score": 0.66,
+    "created_date": "2024-08-29T16:31:56.707914",
+    "chunk_length": 63,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096529",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 14
+    }
+  },
+  {
+    "id": "0d7f907f-d4cb-47e4-a98c-db694a034240",
+    "conversation_id": "be36b8ad-8db5-4a5a-8d3c-f9bc72db400b",
+    "conversation_title": "Demo Conversation: Ai Ml Research",
+    "chunk_index": 0,
+    "content": "Ensemble methods combining multiple models improve overall system robustness. Feature engineering revealed that contextual embeddings outperform static representations. Ensemble methods combining multiple models improve overall system robustness. Interpretability analysis helps understand model decision-making processes. Cross-validation results demonstrate robust performance across different data distributions. Transfer learning from pre-trained models reduces training time while maintaining quality. Cross-validation results demonstrate robust performance across different data distributions. The vector embedding model shows promising results for semantic similarity tasks. Data preprocessing pipeline handles noise and inconsistencies in real-world datasets.",
+    "category": "ai_ml_research",
+    "project_name": "Demo Project Delta",
+    "participants": 4,
+    "complexity_score": 0.65,
+    "created_date": "2025-03-11T16:31:56.707920",
+    "chunk_length": 767,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096532",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 18
+    }
+  },
+  {
+    "id": "5b8c9557-1c3c-4db9-aa57-897cd7703018",
+    "conversation_id": "be36b8ad-8db5-4a5a-8d3c-f9bc72db400b",
+    "conversation_title": "Demo Conversation: Ai Ml Research",
+    "chunk_index": 1,
+    "content": "The attention mechanism effectively captures long-range dependencies in conversational data. Transfer learning from pre-trained models reduces training time while maintaining quality. Model evaluation metrics indicate excellent precision and recall for classification tasks. Fe",
+    "category": "ai_ml_research",
+    "project_name": "Demo Project Delta",
+    "participants": 4,
+    "complexity_score": 0.65,
+    "created_date": "2025-03-11T16:31:56.707920",
+    "chunk_length": 277,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096537",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 18
+    }
+  },
+  {
+    "id": "2febad68-919d-4702-8674-f3c093b8679e",
+    "conversation_id": "e826ddcc-7cb2-4a24-9541-caefe36d94ce",
+    "conversation_title": "Demo Conversation: Strategic Planning",
+    "chunk_index": 0,
+    "content": "Talent acquisition strategy focuses on critical skills needed for future growth. Performance measurement systems track progress toward strategic objectives. Partnership strategy leverages external expertise to accelerate development timelines. Change management ensures smooth transition during organizational transformations. Risk management framework addresses potential challenges and mitigation strategies. Long-term strategic planning aligns technology investments with business objectives. Long-term strategic planning aligns technology investments with business objectives. Partnership strategy leverages external expertise to accelerate development timelines. Talent acquisition strategy focuses on critical skills needed for future growth.",
+    "category": "strategic_planning",
+    "project_name": "Demo Project Gamma",
+    "participants": 5,
+    "complexity_score": 0.79,
+    "created_date": "2024-08-31T16:31:56.707927",
+    "chunk_length": 748,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096540",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 9
+    }
+  },
+  {
+    "id": "c5880e20-b085-4dca-b326-128815e94da1",
+    "conversation_id": "e826ddcc-7cb2-4a24-9541-caefe36d94ce",
+    "conversation_title": "Demo Conversation: Strategic Planning",
+    "chunk_index": 1,
+    "content": "Talent acquisition strategy focuses on critical skills needed for future growth. Performance measurement systems track progress toward strategic objectives. Change management ensures smooth transition during organizational transformations. Talent acquisition strategy focuses on critical skills needed for future growth. Market expansion requires careful consideration of reg",
+    "category": "strategic_planning",
+    "project_name": "Demo Project Gamma",
+    "participants": 5,
+    "complexity_score": 0.79,
+    "created_date": "2024-08-31T16:31:56.707927",
+    "chunk_length": 375,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096543",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 9
+    }
+  },
+  {
+    "id": "e83a3c1a-8225-4bd9-b38f-711600cd44f8",
+    "conversation_id": "5f220dc2-224d-4208-aa53-47ec6004c41b",
+    "conversation_title": "Demo Conversation: Project Management",
+    "chunk_index": 0,
+    "content": "Documentation standards maintain knowledge sharing across distributed teams. Timeline adjustments are necessary to accommodate scope changes requested by stakeholders. Change management processes help handle evolving requirements efficiently. Risk mitigation strategies include backup resources and alternative implementation paths. Sprint planning session identified key deliverables for the upcoming development cycle. Sprint planning session identified key deliverables for the upcoming development cycle. Timeline adjustments are necessary to accommodate scope changes requested by stakeholders. Team retrospectives provide valuable insights for continuous process improvement. Documentation standards maintain knowledge sharing across distributed teams.",
+    "category": "project_management",
+    "project_name": "Demo Project Alpha",
+    "participants": 2,
+    "complexity_score": 0.32,
+    "created_date": "2025-02-25T16:31:56.707933",
+    "chunk_length": 758,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096547",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 23
+    }
+  },
+  {
+    "id": "735daad6-6691-4002-a2b6-398bc11f71b3",
+    "conversation_id": "5f220dc2-224d-4208-aa53-47ec6004c41b",
+    "conversation_title": "Demo Conversation: Project Management",
+    "chunk_index": 1,
+    "content": "Documentation standards maintain knowledge sharing across distributed teams. Quality gates ensure deliverables meet acceptance criteria before moving to next phase. Team coordination requires clear",
+    "category": "project_management",
+    "project_name": "Demo Project Alpha",
+    "participants": 2,
+    "complexity_score": 0.32,
+    "created_date": "2025-02-25T16:31:56.707933",
+    "chunk_length": 197,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096550",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 23
+    }
+  },
+  {
+    "id": "03652aa2-994e-4c0c-be78-8a6ef98621a9",
+    "conversation_id": "ea400257-4bbd-474a-a298-f5823766991d",
+    "conversation_title": "Demo Conversation: Ai Ml Research",
+    "chunk_index": 0,
+    "content": "Interpretability analysis helps understand model decision-making processes. Model training convergence improved significantly after adjusting the learning rate schedule. The attention mechanism effectively captures long-range dependencies in conversational data. The vector embedding model shows promising results for semantic similarity tasks. Transfer learning from pre-trained models reduces training time while maintaining quality. Model evaluation metrics indicate excellent precision and recall for classification tasks. Data preprocessing pipeline handles noise and inconsistencies in real-world datasets. Hyperparameter tuning using Bayesian optimization yielded 15% improvement in accuracy. The vector embedding model shows promising results for semantic similarity tasks.",
+    "category": "ai_ml_research",
+    "project_name": "Demo Project Alpha",
+    "participants": 3,
+    "complexity_score": 0.44,
+    "created_date": "2024-09-04T16:31:56.707939",
+    "chunk_length": 781,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096554",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 7
+    }
+  },
+  {
+    "id": "b1d907a5-da05-48f3-ac09-564103db908d",
+    "conversation_id": "ea400257-4bbd-474a-a298-f5823766991d",
+    "conversation_title": "Demo Conversation: Ai Ml Research",
+    "chunk_index": 1,
+    "content": "The attention mechanism effecti",
+    "category": "ai_ml_research",
+    "project_name": "Demo Project Alpha",
+    "participants": 3,
+    "complexity_score": 0.44,
+    "created_date": "2024-09-04T16:31:56.707939",
+    "chunk_length": 31,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096556",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 7
+    }
+  },
+  {
+    "id": "8ccd285a-aa34-4e72-8470-ef91659403cc",
+    "conversation_id": "9c4e475a-e16a-43f2-ba1a-b29910c59044",
+    "conversation_title": "Demo Conversation: Performance Optimization",
+    "chunk_index": 0,
+    "content": "Code optimization techniques improved throughput while maintaining functionality. Caching implementation reduced average response times by 60% across all endpoints. Network optimization reduces latency and improves user experience significantly. Performance benchmarking establishes baseline metrics for continuous improvement. Optimization strategies balance performance improvements with code maintainability. Performance profiling identified bottlenecks in database query execution patterns. Resource monitoring provides insights into system utilization patterns and trends. Optimization strategies balance performance improvements with code maintainability. Performance benchmarking establishes baseline metrics for continuous improvement.",
+    "category": "performance_optimization",
+    "project_name": "Demo Project Alpha",
+    "participants": 4,
+    "complexity_score": 0.66,
+    "created_date": "2025-04-08T16:31:56.707945",
+    "chunk_length": 743,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096560",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 23
+    }
+  },
+  {
+    "id": "8367c331-fb0f-4437-8680-adc555ffcd59",
+    "conversation_id": "9c4e475a-e16a-43f2-ba1a-b29910c59044",
+    "conversation_title": "Demo Conversation: Performance Optimization",
+    "chunk_index": 1,
+    "content": "Caching implementation reduced average response times by 60% across all endpoints. Capacity planning ensures infrastructure can handle projected growth requirements. Resource monitoring provides insights into system utilization patterns and trends. Capacity planning ensures infrastructure can handle projected",
+    "category": "performance_optimization",
+    "project_name": "Demo Project Alpha",
+    "participants": 4,
+    "complexity_score": 0.66,
+    "created_date": "2025-04-08T16:31:56.707945",
+    "chunk_length": 310,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096563",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 23
+    }
+  },
+  {
+    "id": "80cdef81-4dc4-4bbc-9926-4a8f75e25a9d",
+    "conversation_id": "9b0f1ef1-a637-4565-bd0b-6352ebb64053",
+    "conversation_title": "Demo Conversation: Strategic Planning",
+    "chunk_index": 0,
+    "content": "Long-term strategic planning aligns technology investments with business objectives. Digital transformation initiatives modernize legacy systems and processes. Partnership strategy leverages external expertise to accelerate development timelines. Partnership strategy leverages external expertise to accelerate development timelines. Innovation roadmap balances cutting-edge research with practical implementation needs. Stakeholder alignment ensures unified direction across all organizational levels. Market expansion requires careful consideration of regional requirements and regulations. Performance measurement systems track progress toward strategic objectives. Risk management framework addresses potential challenges and mitigation strategies.",
+    "category": "strategic_planning",
+    "project_name": "Demo Project Beta",
+    "participants": 5,
+    "complexity_score": 0.41,
+    "created_date": "2024-06-22T16:31:56.707951",
+    "chunk_length": 752,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096566",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 17
+    }
+  },
+  {
+    "id": "7afbdf23-7446-439f-a21e-cf70325afffe",
+    "conversation_id": "9b0f1ef1-a637-4565-bd0b-6352ebb64053",
+    "conversation_title": "Demo Conversation: Strategic Planning",
+    "chunk_index": 1,
+    "content": "Talent acquisition strategy focuses on critical skills needed for future growth. Innovation roadmap balances cutting-edge research with practical implementation needs. Competitive positioning analysis identifies opportunities for market differentiation. Innovation roadmap balances cutting-edge research with",
+    "category": "strategic_planning",
+    "project_name": "Demo Project Beta",
+    "participants": 5,
+    "complexity_score": 0.41,
+    "created_date": "2024-06-22T16:31:56.707951",
+    "chunk_length": 308,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096570",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 17
+    }
+  },
+  {
+    "id": "1069de15-5bd7-43a6-a559-5fd360d3faa3",
+    "conversation_id": "3e243ee2-8cd2-4610-b4ed-59680f0160ed",
+    "conversation_title": "Demo Conversation: Ai Ml Research",
+    "chunk_index": 0,
+    "content": "Model evaluation metrics indicate excellent precision and recall for classification tasks. The vector embedding model shows promising results for semantic similarity tasks. Transfer learning from pre-trained models reduces training time while maintaining quality. Neural architecture search identified optimal network topology for our specific use case. Feature engineering revealed that contextual embeddings outperform static representations. Feature engineering revealed that contextual embeddings outperform static representations. Model training convergence improved significantly after adjusting the learning rate schedule. The attention mechanism effectively captures long-range dependencies in conversational data.",
+    "category": "ai_ml_research",
+    "project_name": "Demo Project Alpha",
+    "participants": 3,
+    "complexity_score": 0.32,
+    "created_date": "2024-08-29T16:31:56.707957",
+    "chunk_length": 722,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096573",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 18
+    }
+  },
+  {
+    "id": "586b898c-55ff-4d36-af3f-a61e32b800c5",
+    "conversation_id": "3e243ee2-8cd2-4610-b4ed-59680f0160ed",
+    "conversation_title": "Demo Conversation: Ai Ml Research",
+    "chunk_index": 1,
+    "content": "Transfer learning from pre-trained models reduces training time while maintaining quality. Ensemble methods combining multiple models improve overall system robustness. Interpretability analysis helps unde",
+    "category": "ai_ml_research",
+    "project_name": "Demo Project Alpha",
+    "participants": 3,
+    "complexity_score": 0.32,
+    "created_date": "2024-08-29T16:31:56.707957",
+    "chunk_length": 205,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096576",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 18
+    }
+  },
+  {
+    "id": "cfc71d42-c9ef-4561-8491-21cb1cb33c52",
+    "conversation_id": "05803379-c63a-4126-9633-f02473d816b7",
+    "conversation_title": "Demo Conversation: Ai Ml Research",
+    "chunk_index": 0,
+    "content": "Data preprocessing pipeline handles noise and inconsistencies in real-world datasets. Interpretability analysis helps understand model decision-making processes. The attention mechanism effectively captures long-range dependencies in conversational data. The vector embedding model shows promising results for semantic similarity tasks. The vector embedding model shows promising results for semantic similarity tasks. Neural architecture search identified optimal network topology for our specific use case. Model evaluation metrics indicate excellent precision and recall for classification tasks. Transfer learning from pre-trained models reduces training time while maintaining quality. Model training convergence impr",
+    "category": "ai_ml_research",
+    "project_name": "Demo Project Alpha",
+    "participants": 3,
+    "complexity_score": 0.42,
+    "created_date": "2025-02-03T16:31:56.707963",
+    "chunk_length": 722,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096578",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 21
+    }
+  },
+  {
+    "id": "cb910753-975a-4c8c-b510-9dd7daba2934",
+    "conversation_id": "a442ab90-2018-4f1c-bf36-c9a971e1954a",
+    "conversation_title": "Demo Conversation: Business Analysis",
+    "chunk_index": 0,
+    "content": "Product roadmap alignment with customer needs is critical for long-term success. Product roadmap alignment with customer needs is critical for long-term success. Budget planning must account for scalability requirements and infrastructure costs. ROI projections show positive returns within 18 months if we maintain current development pace. Budget planning must account for scalability requirements and infrastructure costs. Strategic partnerships could accelerate market entry and reduce development overhead. Risk assessment highlights the importance of robust data backup and recovery procedures. Strate",
+    "category": "business_analysis",
+    "project_name": "Demo Project Delta",
+    "participants": 4,
+    "complexity_score": 0.8,
+    "created_date": "2025-01-18T16:31:56.707969",
+    "chunk_length": 607,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096581",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 12
+    }
+  },
+  {
+    "id": "e479e87c-732a-47ec-9a85-7a97365df2c9",
+    "conversation_id": "8ef5390f-98d3-402b-b062-a16325493e4a",
+    "conversation_title": "Demo Conversation: General",
+    "chunk_index": 0,
+    "content": "Process improvement initiatives enhance efficiency and reduce operational overhead. Agile methodologies enable rapid iteration and responsive development cycles. Agile methodologies enable rapid iteration and responsive development cycles. Documentation and knowledge sharing facilitate onboarding and team coordination. Quality assurance measures ensure deliverables meet established standards and expectations. Customer focus ensures solutions address real business needs and user requirements. Best practices and industry standards guide development and operational procedures. Regular reviews and feedback loops ensure continuous improvement and quality assurance. Innovation and experimentation drive competitive advantage a",
+    "category": "general",
+    "project_name": "Demo Project Gamma",
+    "participants": 5,
+    "complexity_score": 0.64,
+    "created_date": "2025-06-07T16:31:56.708014",
+    "chunk_length": 729,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096583",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 19
+    }
+  },
+  {
+    "id": "6ecb46d3-d035-4cba-9861-cbbe537d8ad8",
+    "conversation_id": "869366a2-be08-4b0d-a358-999b0fb56941",
+    "conversation_title": "Demo Conversation: Performance Optimization",
+    "chunk_index": 0,
+    "content": "Load testing reveals system capacity limits and scaling requirements. Code optimization techniques improved throughput while maintaining functionality. Database indexing improvements dramatically accelerated complex query performance. Caching implementation reduced average response times by 60% across all endpoints. Performance profiling identified bottlenecks in database query execution patterns. Performance profiling identified bottlenecks in database query execution patterns. Optimization strategies balance performance improvements with code maintainability. Network optimization reduces latency and improves user experience significantly. Optimization strategies balance performance improvements with code maintainability.",
+    "category": "performance_optimization",
+    "project_name": "Demo Project Beta",
+    "participants": 3,
+    "complexity_score": 0.5,
+    "created_date": "2024-12-14T16:31:56.708022",
+    "chunk_length": 732,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096587",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 8
+    }
+  },
+  {
+    "id": "965a44df-c523-4a44-9a65-6cc1e70a1c96",
+    "conversation_id": "869366a2-be08-4b0d-a358-999b0fb56941",
+    "conversation_title": "Demo Conversation: Performance Optimization",
+    "chunk_index": 1,
+    "content": "Scalability testing demonstrates system behavior under increasing load conditions. Scalability testing demonstrates system behavior under increasing load cond",
+    "category": "performance_optimization",
+    "project_name": "Demo Project Beta",
+    "participants": 3,
+    "complexity_score": 0.5,
+    "created_date": "2024-12-14T16:31:56.708022",
+    "chunk_length": 158,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096591",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 8
+    }
+  },
+  {
+    "id": "3835b72e-6915-42b7-a2f7-5925c662a5a7",
+    "conversation_id": "31ad605c-7b35-444c-9090-7f3d8005efc5",
+    "conversation_title": "Demo Conversation: Technical Development",
+    "chunk_index": 0,
+    "content": "We should implement better error handling mechanisms and add comprehensive logging. Let's refactor the database queries to optimize performance and reduce latency. Security considerations require implementing proper input validation and sanitization. Security considerations require implementing proper input validation and sanitization. The microservices architecture will provide better scalability and maintainability. We need to implement proper caching strategies to improve response times. Security considerations require implementing proper input validation and sanitization. Code review feedback suggests we should simplify the authentication flow. Code review feedback suggests we should simplify the authentication flow.",
+    "category": "technical_development",
+    "project_name": "Demo Project Beta",
+    "participants": 5,
+    "complexity_score": 0.79,
+    "created_date": "2025-02-13T16:31:56.708028",
+    "chunk_length": 730,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096595",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 20
+    }
+  },
+  {
+    "id": "e8f7d2a1-0a73-4211-920c-2b107e1622ed",
+    "conversation_id": "31ad605c-7b35-444c-9090-7f3d8005efc5",
+    "conversation_title": "Demo Conversation: Technical Development",
+    "chunk_index": 1,
+    "content": "Let's refactor the database queries to optimize performance and reduce latency. The microservices architecture will",
+    "category": "technical_development",
+    "project_name": "Demo Project Beta",
+    "participants": 5,
+    "complexity_score": 0.79,
+    "created_date": "2025-02-13T16:31:56.708028",
+    "chunk_length": 115,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096597",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 20
+    }
+  },
+  {
+    "id": "dff11a50-4aa2-4e06-bc65-6a740f62a05c",
+    "conversation_id": "e8bf5d31-8a03-4936-acfd-8d9402b8e4ea",
+    "conversation_title": "Demo Conversation: Performance Optimization",
+    "chunk_index": 0,
+    "content": "Scalability testing demonstrates system behavior under increasing load conditions. Optimization strategies balance performance improvements with code maintainability. Memory optimization strategies eliminated memory leaks and reduced resource consumption. Performance benchmarking establishes baseline metrics for continuous improvement. Code optimization techniques improved throughput while maintaining functionality. Network optimization reduces latency and improves user experience significantly. Performance benchmarking establishes baseline metrics for continuous improvement. Load testing reveals system capacity limits and scaling requirements. Load testing reveals system capacity limits and scaling requirements. Code optimization techniques improved throughput while m",
+    "category": "performance_optimization",
+    "project_name": "Demo Project Alpha",
+    "participants": 4,
+    "complexity_score": 0.73,
+    "created_date": "2024-06-21T16:31:56.708034",
+    "chunk_length": 779,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096599",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 23
+    }
+  },
+  {
+    "id": "13b0b055-0346-4b82-9d8f-493a2fdca6e6",
+    "conversation_id": "2696ea9f-31ba-4954-9d48-87565ede26b6",
+    "conversation_title": "Demo Conversation: Performance Optimization",
+    "chunk_index": 0,
+    "content": "Resource monitoring provides insights into system utilization patterns and trends. Performance benchmarking establishes baseline metrics for continuous improvement. Resource monitoring provides insights into system utilization patterns and trends. Code optimization techniques improved throughput while maintaining functionality. Resource monitoring provides insights into system utilization patterns and trends. Memory optimization strategies eliminated memory leaks and reduced resource consumption. Performance profiling identified bottlenecks in database query execution patterns. Scalability testing demonstrates system behavior under increasing load conditions. Network optimization reduces latency and improves user experience significantly.",
+    "category": "performance_optimization",
+    "project_name": "Demo Project Gamma",
+    "participants": 2,
+    "complexity_score": 0.43,
+    "created_date": "2025-04-25T16:31:56.708040",
+    "chunk_length": 748,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096603",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 21
+    }
+  },
+  {
+    "id": "b271fecd-055b-4f27-965e-fac52d6b01d0",
+    "conversation_id": "2696ea9f-31ba-4954-9d48-87565ede26b6",
+    "conversation_title": "Demo Conversation: Performance Optimization",
+    "chunk_index": 1,
+    "content": "Performance profiling identified bottlenecks in database query execution patterns. Capacity planning ensures infrastructure can handle projected growth requirements. Code optimization techniques improved throughput while maintaining functionality. Capacity planning ensures infrastructure can handle projected growth requirements. Load testing reveals system capacity limits and scaling requirements. Optimization",
+    "category": "performance_optimization",
+    "project_name": "Demo Project Gamma",
+    "participants": 2,
+    "complexity_score": 0.43,
+    "created_date": "2025-04-25T16:31:56.708040",
+    "chunk_length": 413,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096605",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 21
+    }
+  },
+  {
+    "id": "5e0b6e27-0a8f-4f8b-8d43-241d14ec6928",
+    "conversation_id": "0ac42aad-a80c-4efd-98ec-1f8654746467",
+    "conversation_title": "Demo Conversation: Business Analysis",
+    "chunk_index": 0,
+    "content": "Budget planning must account for scalability requirements and infrastructure costs. Based on the stakeholder feedback, we should prioritize features that deliver immediate business value. Strategic partnerships could accelerate market entry and reduce development overhead. The cost-benefit analysis suggests focusing on core functionality first before expanding to advanced features. Strategic partnerships could accelerate market entry and reduce development overhead. The cost-benefit analysis suggests focusing on core functionality first before expanding to advanced features. Quality assurance processes should be strengthened to maintain high cust",
+    "category": "business_analysis",
+    "project_name": "Demo Project Alpha",
+    "participants": 5,
+    "complexity_score": 0.67,
+    "created_date": "2025-03-28T16:31:56.708047",
+    "chunk_length": 654,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096608",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 23
+    }
+  },
+  {
+    "id": "5215fb7d-5fd0-4180-af1c-9a854e5766cd",
+    "conversation_id": "44dfa293-b6ad-46f1-bdcf-3eed956d835c",
+    "conversation_title": "Demo Conversation: Business Analysis",
+    "chunk_index": 0,
+    "content": "Based on the stakeholder feedback, we should prioritize features that deliver immediate business value. Risk assessment highlights the importance of robust data backup and recovery procedures. Quality assurance processes should be strengthened to maintain high customer satisfaction. ROI projections show positive returns within 18 months if we maintain current development pace. Budget planning must account for scalability requirements and infrastructure costs. Resource allocation should balance feature development with technical debt reduction. Strategic partnerships could accelerate market entry and reduce development overhead. Market research indicates strong demand for automation capabilities in our target segment.",
+    "category": "business_analysis",
+    "project_name": "Demo Project Delta",
+    "participants": 4,
+    "complexity_score": 0.88,
+    "created_date": "2024-07-09T16:31:56.708054",
+    "chunk_length": 726,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096612",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 9
+    }
+  },
+  {
+    "id": "29dfee39-3009-4699-b671-3c785e04dcc0",
+    "conversation_id": "44dfa293-b6ad-46f1-bdcf-3eed956d835c",
+    "conversation_title": "Demo Conversation: Business Analysis",
+    "chunk_index": 1,
+    "content": "Product roadmap alignment with customer needs is critical for long-term success. Competitive analysis reveals opportunities to differentiate through superior user experience. Customer feedback emphasizes the need for intuitive interfaces and streamlined workflows. The cost-bene",
+    "category": "business_analysis",
+    "project_name": "Demo Project Delta",
+    "participants": 4,
+    "complexity_score": 0.88,
+    "created_date": "2024-07-09T16:31:56.708054",
+    "chunk_length": 278,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096614",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 9
+    }
+  },
+  {
+    "id": "17453668-01b9-444d-ab6b-feff6af50ce5",
+    "conversation_id": "7308fa65-47f0-44df-b4da-7e8978dd2ebd",
+    "conversation_title": "Demo Conversation: Ai Ml Research",
+    "chunk_index": 0,
+    "content": "Feature engineering revealed that contextual embeddings outperform static representations. Cross-validation results demonstrate robust performance across different data distributions. Feature engineering revealed that contextual embeddings outperform static representations. Model training convergence improved significantly after adjusting the learning rate schedule. The vector embedding model shows promising results for semantic similarity tasks. Cross-validation results demonstrate robust performance across different data distributions. Model training convergence improved significantly after adjusting the learning rate schedule. Data preprocessing pipeline handles noise and inconsistencies in real-world datasets.",
+    "category": "ai_ml_research",
+    "project_name": "Demo Project Alpha",
+    "participants": 5,
+    "complexity_score": 0.83,
+    "created_date": "2024-10-18T16:31:56.708061",
+    "chunk_length": 723,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096619",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 13
+    }
+  },
+  {
+    "id": "cf19b1d7-977a-48ad-b563-1baec14d83f4",
+    "conversation_id": "7308fa65-47f0-44df-b4da-7e8978dd2ebd",
+    "conversation_title": "Demo Conversation: Ai Ml Research",
+    "chunk_index": 1,
+    "content": "Transfer learning from pre-trained models reduces training time while maintaining quality",
+    "category": "ai_ml_research",
+    "project_name": "Demo Project Alpha",
+    "participants": 5,
+    "complexity_score": 0.83,
+    "created_date": "2024-10-18T16:31:56.708061",
+    "chunk_length": 89,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096622",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 13
+    }
+  },
+  {
+    "id": "075fd1ba-e472-4761-81b0-db37402ab134",
+    "conversation_id": "a652ea6d-f0a3-41c8-b529-fabe7107b6f5",
+    "conversation_title": "Demo Conversation: Data Analytics",
+    "chunk_index": 0,
+    "content": "Predictive analytics models forecast future trends with high accuracy rates. ETL pipeline processing ensures clean, consistent data for analysis workflows. Data warehouse optimization reduces query response times and improves efficiency. Data warehouse optimization reduces query response times and improves efficiency. Machine learning models identify anomalies and patterns in large datasets. Reporting dashboard visualizes critical business metrics in real-time. Business intelligence tools enable self-service analytics for stakeholders. Data warehouse optimization reduces query response times and improves efficiency. Data analysis reveals clear patterns in user behavior and system performance metrics. Data analysis rev",
+    "category": "data_analytics",
+    "project_name": "Demo Project Alpha",
+    "participants": 2,
+    "complexity_score": 0.82,
+    "created_date": "2025-05-26T16:31:56.708068",
+    "chunk_length": 727,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096625",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 24
+    }
+  },
+  {
+    "id": "0510d90b-4a23-4bf3-b065-1a4a8bd912c1",
+    "conversation_id": "41ae098c-e3fd-486a-9471-d5ab79cd6f16",
+    "conversation_title": "Demo Conversation: Technical Development",
+    "chunk_index": 0,
+    "content": "Code review feedback suggests we should simplify the authentication flow. We need to implement proper caching strategies to improve response times. The testing strategy should include unit tests, integration tests, and end-to-end scenarios. We need to implement proper caching strategies to improve response times. The integration with the external services requires careful handling of rate limits. Let's refactor the database queries to optimize performance and reduce latency. Code review feedback suggests we should simplify the authentication flow. The deployment pipeline needs automation to reduce manual errors. Code review feedback suggests we should simplify the authentication flow. The integration with the external services requires ca",
+    "category": "technical_development",
+    "project_name": "Demo Project Alpha",
+    "participants": 3,
+    "complexity_score": 0.85,
+    "created_date": "2025-03-20T16:31:56.708076",
+    "chunk_length": 748,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096627",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 12
+    }
+  },
+  {
+    "id": "05d11214-d015-4de8-bd0e-502cc1c286a5",
+    "conversation_id": "bec95711-2e77-4b1b-9190-95c73ac69bf4",
+    "conversation_title": "Demo Conversation: General",
+    "chunk_index": 0,
+    "content": "Innovation and experimentation drive competitive advantage and market leadership. Technical debt management balances new feature development with system maintenance. Regular reviews and feedback loops ensure continuous improvement and quality assurance. Continuous learning and skill development keep teams current with evolving technologies. Regular reviews and feedback loops ensure continuous improvement and quality assurance. Regular reviews and feedback loops ensure continuous improvement and quality assurance. Team collaboration and communication are essential for successful project delivery. Team collaboration and communication are essential for successful project delivery. Documentation and knowledge sharing facilitate onboarding and team coordination.",
+    "category": "general",
+    "project_name": "Demo Project Delta",
+    "participants": 5,
+    "complexity_score": 0.53,
+    "created_date": "2024-09-15T16:31:56.708083",
+    "chunk_length": 767,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096631",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 12
+    }
+  },
+  {
+    "id": "15e2754d-db58-4da2-8011-8cc9bf6bfcae",
+    "conversation_id": "bec95711-2e77-4b1b-9190-95c73ac69bf4",
+    "conversation_title": "Demo Conversation: General",
+    "chunk_index": 1,
+    "content": "Documentation and knowledge sharing facilitate onboarding and team coordination. Team collaboration and communication are essential for successful project delivery. Team collaboration and communication are e",
+    "category": "general",
+    "project_name": "Demo Project Delta",
+    "participants": 5,
+    "complexity_score": 0.53,
+    "created_date": "2024-09-15T16:31:56.708083",
+    "chunk_length": 207,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096633",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 12
+    }
+  },
+  {
+    "id": "19dcccad-8b1c-43ac-a97a-8033d4dcf4ed",
+    "conversation_id": "e47a6132-eb76-4f7b-9e42-b04548109f8d",
+    "conversation_title": "Demo Conversation: Strategic Planning",
+    "chunk_index": 0,
+    "content": "Stakeholder alignment ensures unified direction across all organizational levels. Competitive positioning analysis identifies opportunities for market differentiation. Long-term strategic planning aligns technology investments with business objectives. Change management ensures smooth transition during organizational transformations. Partnership strategy leverages external expertise to accelerate development timelines. Performance measurement systems track progress toward strategic objectives. Change management ensures smooth transition during organizational transformations. Long-term strategic planning",
+    "category": "strategic_planning",
+    "project_name": "Demo Project Gamma",
+    "participants": 2,
+    "complexity_score": 0.31,
+    "created_date": "2024-12-12T16:31:56.708089",
+    "chunk_length": 610,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096636",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 12
+    }
+  },
+  {
+    "id": "d479036b-b075-49c0-ba23-35ea3dc9314f",
+    "conversation_id": "acb1bd8e-b5a6-4020-b15a-0a014c116fba",
+    "conversation_title": "Demo Conversation: System Architecture",
+    "chunk_index": 0,
+    "content": "API gateway implementation ensures proper routing, security, and rate limiting capabilities. Service mesh provides observability, security, and traffic management features. The microservices architecture provides excellent scalability and maintainability benefits. Load balancing distributes traffic efficiently across multiple service instances. Disaster recovery procedures ensure business continuity during system failures. Data architecture supports both transactional and analytical workloads efficiently. Load balancing distributes traffic efficiently across multiple service instances. Data arc",
+    "category": "system_architecture",
+    "project_name": "Demo Project Alpha",
+    "participants": 2,
+    "complexity_score": 0.43,
+    "created_date": "2024-08-22T16:31:56.708095",
+    "chunk_length": 601,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096639",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 20
+    }
+  },
+  {
+    "id": "67806875-86c4-47d9-a452-772009706746",
+    "conversation_id": "82c1156b-72b6-4004-86ac-5a2b145feb6b",
+    "conversation_title": "Demo Conversation: System Architecture",
+    "chunk_index": 0,
+    "content": "Disaster recovery procedures ensure business continuity during system failures. Disaster recovery procedures ensure business continuity during system failures. Service mesh provides observability, security, and traffic management features. Caching layers significantly reduce database load and improve response times. Load balancing distributes traffic efficiently across multiple service instances. The microservices architecture provides excellent scalability and maintainability benefits. Load balancing distributes traffic efficiently across multiple service instances. Load balancing distributes traffic efficiently across multiple service instances. Caching layers significantly reduce database load and improve response times.",
+    "category": "system_architecture",
+    "project_name": "Demo Project Delta",
+    "participants": 2,
+    "complexity_score": 0.67,
+    "created_date": "2025-03-21T16:31:56.708101",
+    "chunk_length": 733,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096643",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 5
+    }
+  },
+  {
+    "id": "09793993-7110-49e0-a5a8-3c3e490f75eb",
+    "conversation_id": "82c1156b-72b6-4004-86ac-5a2b145feb6b",
+    "conversation_title": "Demo Conversation: System Architecture",
+    "chunk_index": 1,
+    "content": "Caching layers significantly reduce database load and improve response times. Event-driven architecture enables loose coupling between system components. Container orchestration simplifies deployment and resource management processes. The",
+    "category": "system_architecture",
+    "project_name": "Demo Project Delta",
+    "participants": 2,
+    "complexity_score": 0.67,
+    "created_date": "2025-03-21T16:31:56.708101",
+    "chunk_length": 238,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096646",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 5
+    }
+  },
+  {
+    "id": "a236cad9-ac39-4df0-b9cf-b71a79681575",
+    "conversation_id": "1cc22bdf-b59f-4896-a9d8-e509a05d4fb4",
+    "conversation_title": "Demo Conversation: System Architecture",
+    "chunk_index": 0,
+    "content": "Caching layers significantly reduce database load and improve response times. Service mesh provides observability, security, and traffic management features. Service mesh provides observability, security, and traffic management features. Security architecture implements defense-in-depth principles throughout the stack. Load balancing distributes traffic efficiently across multiple service instances. Container orchestration simplifies deployment and resource management processes. Disaster recovery procedures ensure business continuity during system failures. Service mesh provides observability, security, and traffic management features. Security architecture implements defense-in-depth principles throughout the stack. Load balancing distributes traffic efficiently across multiple servi",
+    "category": "system_architecture",
+    "project_name": "Demo Project Delta",
+    "participants": 4,
+    "complexity_score": 0.85,
+    "created_date": "2024-09-16T16:31:56.708107",
+    "chunk_length": 795,
+    "metadata": {
+      "source": "demo_conversation",
+      "processing_date": "2025-06-15T16:32:53.096650",
+      "chunk_method": "simple_overlap",
+      "original_message_count": 17
+    }
+  }
+]

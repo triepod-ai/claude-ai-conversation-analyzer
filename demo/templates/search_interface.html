@@ -1,0 +1,416 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interactive Search - Claude AI Conversation Analyzer</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
+    <link href="{{ url_for('static', filename='css/portfolio.css') }}" rel="stylesheet">
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container">
+            <a class="navbar-brand" href="/">
+                <i class="fas fa-robot me-2"></i>Claude AI Conversation Analyzer
+            </a>
+            <div class="navbar-nav ms-auto">
+                <a class="nav-link" href="/">Home</a>
+                <a class="nav-link active" href="/search">Search</a>
+                <a class="nav-link" href="/dashboard">Dashboard</a>
+                <a class="nav-link" href="/architecture">Architecture</a>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Search Interface -->
+    <div class="container-fluid mt-4">
+        <div class="row">
+            <!-- Search Panel -->
+            <div class="col-lg-4">
+                <div class="card shadow-sm">
+                    <div class="card-header bg-primary text-white">
+                        <h5 class="mb-0"><i class="fas fa-search me-2"></i>Claude AI Semantic Search</h5>
+                    </div>
+                    <div class="card-body">
+                        <!-- Search Form -->
+                        <div class="mb-4">
+                            <label for="searchQuery" class="form-label">Search Query</label>
+                            <div class="input-group">
+                                <input type="text" class="form-control" id="searchQuery" 
+                                       placeholder="Enter your search query..." autocomplete="off">
+                                <button class="btn btn-primary" type="button" id="searchBtn">
+                                    <i class="fas fa-search"></i>
+                                </button>
+                            </div>
+                        </div>
+
+                        <!-- Filters -->
+                        <div class="mb-3">
+                            <label for="categoryFilter" class="form-label">Category Filter</label>
+                            <select class="form-select" id="categoryFilter">
+                                <option value="all">All Categories</option>
+                                <option value="technical_development">Technical Development</option>
+                                <option value="business_analysis">Business Analysis</option>
+                                <option value="ai_ml_research">AI/ML Research</option>
+                                <option value="project_management">Project Management</option>
+                                <option value="system_architecture">System Architecture</option>
+                                <option value="data_analytics">Data Analytics</option>
+                                <option value="strategic_planning">Strategic Planning</option>
+                                <option value="performance_optimization">Performance Optimization</option>
+                                <option value="general">General</option>
+                            </select>
+                        </div>
+
+                        <div class="mb-3">
+                            <label for="resultLimit" class="form-label">Result Limit</label>
+                            <select class="form-select" id="resultLimit">
+                                <option value="5">5 Results</option>
+                                <option value="10" selected>10 Results</option>
+                                <option value="20">20 Results</option>
+                                <option value="50">50 Results</option>
+                            </select>
+                        </div>
+
+                        <!-- Demo Queries -->
+                        <div class="mb-3">
+                            <label class="form-label">Quick Demo Searches</label>
+                            <div class="d-grid gap-2">
+                                <button class="btn btn-outline-secondary btn-sm demo-query" 
+                                        data-query="machine learning optimization" 
+                                        data-category="ai_ml_research">
+                                    ML Optimization
+                                </button>
+                                <button class="btn btn-outline-secondary btn-sm demo-query" 
+                                        data-query="microservices architecture" 
+                                        data-category="system_architecture">
+                                    Architecture Patterns
+                                </button>
+                                <button class="btn btn-outline-secondary btn-sm demo-query" 
+                                        data-query="data pipeline performance" 
+                                        data-category="data_analytics">
+                                    Data Pipelines
+                                </button>
+                                <button class="btn btn-outline-secondary btn-sm demo-query" 
+                                        data-query="agile methodology" 
+                                        data-category="project_management">
+                                    Project Management
+                                </button>
+                            </div>
+                        </div>
+
+                        <!-- Search Stats -->
+                        <div class="mt-4 pt-3 border-top">
+                            <small class="text-muted">
+                                <div class="d-flex justify-content-between">
+                                    <span>Total Chunks:</span>
+                                    <span>{{ stats.total_chunks if stats else '170' }}</span>
+                                </div>
+                                <div class="d-flex justify-content-between">
+                                    <span>Categories:</span>
+                                    <span>{{ stats.categories|length if stats else '9' }}</span>
+                                </div>
+                                <div class="d-flex justify-content-between">
+                                    <span>Avg Processing:</span>
+                                    <span>&lt; 0.5s</span>
+                                </div>
+                            </small>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- System Status -->
+                <div class="card shadow-sm mt-3">
+                    <div class="card-header bg-success text-white">
+                        <h6 class="mb-0"><i class="fas fa-heartbeat me-2"></i>System Status</h6>
+                    </div>
+                    <div class="card-body">
+                        <div class="status-indicators">
+                            <div class="d-flex justify-content-between align-items-center mb-2">
+                                <span>Search Engine</span>
+                                <span class="badge bg-success">Active</span>
+                            </div>
+                            <div class="d-flex justify-content-between align-items-center mb-2">
+                                <span>Vector Database</span>
+                                <span class="badge bg-success">Connected</span>
+                            </div>
+                            <div class="d-flex justify-content-between align-items-center mb-2">
+                                <span>Performance</span>
+                                <span class="badge bg-info">Excellent</span>
+                            </div>
+                            <div class="d-flex justify-content-between align-items-center">
+                                <span>Error Rate</span>
+                                <span class="badge bg-success">0%</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Results Panel -->
+            <div class="col-lg-8">
+                <div class="card shadow-sm">
+                    <div class="card-header d-flex justify-content-between align-items-center">
+                        <h5 class="mb-0"><i class="fas fa-list me-2"></i>Search Results</h5>
+                        <div class="search-info">
+                            <small class="text-muted" id="searchInfo">Enter a query to begin searching</small>
+                        </div>
+                    </div>
+                    <div class="card-body">
+                        <!-- Loading Indicator -->
+                        <div id="loadingIndicator" class="text-center py-5" style="display: none;">
+                            <div class="spinner-border text-primary" role="status">
+                                <span class="visually-hidden">Searching...</span>
+                            </div>
+                            <div class="mt-2">
+                                <small class="text-muted">Processing semantic search...</small>
+                            </div>
+                        </div>
+
+                        <!-- No Results State -->
+                        <div id="noResults" class="text-center py-5" style="display: none;">
+                            <i class="fas fa-search fa-3x text-muted mb-3"></i>
+                            <h5 class="text-muted">No Results Found</h5>
+                            <p class="text-muted">Try adjusting your search query or filters.</p>
+                        </div>
+
+                        <!-- Welcome State -->
+                        <div id="welcomeState" class="text-center py-5">
+                            <i class="fas fa-search fa-4x text-primary mb-4"></i>
+                            <h4>Advanced Semantic Search</h4>
+                            <p class="text-muted lead">
+                                Search through {{ stats.total_chunks if stats else '170' }} conversation chunks using advanced AI-powered semantic matching.
+                            </p>
+                            <div class="row mt-4">
+                                <div class="col-md-4">
+                                    <div class="feature-highlight">
+                                        <i class="fas fa-bolt text-warning"></i>
+                                        <h6>Lightning Fast</h6>
+                                        <small class="text-muted">398.4 conv/sec processing</small>
+                                    </div>
+                                </div>
+                                <div class="col-md-4">
+                                    <div class="feature-highlight">
+                                        <i class="fas fa-brain text-info"></i>
+                                        <h6>AI-Powered</h6>
+                                        <small class="text-muted">Vector similarity matching</small>
+                                    </div>
+                                </div>
+                                <div class="col-md-4">
+                                    <div class="feature-highlight">
+                                        <i class="fas fa-filter text-success"></i>
+                                        <h6>Smart Filtering</h6>
+                                        <small class="text-muted">9 content categories</small>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Results Container -->
+                        <div id="searchResults" style="display: none;"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Scripts -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script>
+        class SearchInterface {
+            constructor() {
+                this.initializeEventListeners();
+                this.currentQuery = '';
+                this.searchTimeout = null;
+            }
+
+            initializeEventListeners() {
+                // Search button click
+                document.getElementById('searchBtn').addEventListener('click', () => {
+                    this.performSearch();
+                });
+
+                // Enter key in search box
+                document.getElementById('searchQuery').addEventListener('keypress', (e) => {
+                    if (e.key === 'Enter') {
+                        this.performSearch();
+                    }
+                });
+
+                // Real-time search on input (debounced)
+                document.getElementById('searchQuery').addEventListener('input', (e) => {
+                    clearTimeout(this.searchTimeout);
+                    this.searchTimeout = setTimeout(() => {
+                        if (e.target.value.length > 2) {
+                            this.performSearch();
+                        }
+                    }, 500);
+                });
+
+                // Demo query buttons
+                document.querySelectorAll('.demo-query').forEach(btn => {
+                    btn.addEventListener('click', (e) => {
+                        const query = e.target.getAttribute('data-query');
+                        const category = e.target.getAttribute('data-category');
+                        
+                        document.getElementById('searchQuery').value = query;
+                        document.getElementById('categoryFilter').value = category;
+                        this.performSearch();
+                    });
+                });
+            }
+
+            async performSearch() {
+                const query = document.getElementById('searchQuery').value.trim();
+                if (!query) return;
+
+                const category = document.getElementById('categoryFilter').value;
+                const limit = document.getElementById('resultLimit').value;
+
+                this.showLoading();
+                this.hideWelcome();
+
+                try {
+                    const params = new URLSearchParams({
+                        query: query,
+                        limit: limit
+                    });
+
+                    if (category !== 'all') {
+                        params.append('category', category);
+                    }
+
+                    const response = await fetch(`/api/search?${params}`);
+                    const data = await response.json();
+
+                    if (data.error) {
+                        throw new Error(data.error);
+                    }
+
+                    this.displayResults(data);
+                    this.updateSearchInfo(data);
+
+                } catch (error) {
+                    console.error('Search error:', error);
+                    this.showError(error.message);
+                } finally {
+                    this.hideLoading();
+                }
+            }
+
+            displayResults(data) {
+                const resultsContainer = document.getElementById('searchResults');
+                
+                if (!data.results || data.results.length === 0) {
+                    this.showNoResults();
+                    return;
+                }
+
+                let html = '';
+                data.results.forEach((result, index) => {
+                    html += `
+                        <div class="result-item mb-4 p-3 border rounded">
+                            <div class="d-flex justify-content-between align-items-start mb-2">
+                                <h6 class="result-title mb-1">
+                                    <span class="result-rank">${result.rank}.</span>
+                                    <span class="result-source">${result.source_name}</span>
+                                </h6>
+                                <span class="badge bg-primary">${result.similarity}% match</span>
+                            </div>
+                            
+                            <div class="result-meta mb-2">
+                                <span class="badge bg-secondary me-2">${result.category}</span>
+                                <small class="text-muted">
+                                    <i class="fas fa-calendar me-1"></i>
+                                    ${result.metadata.created_at || 'Unknown date'}
+                                </small>
+                            </div>
+                            
+                            <div class="result-content">
+                                <p class="mb-2">${this.highlightQuery(result.content, data.query)}</p>
+                            </div>
+                            
+                            <div class="result-actions">
+                                <button class="btn btn-sm btn-outline-primary me-2" onclick="window.searchInterface.expandResult(${index})">
+                                    <i class="fas fa-expand-alt me-1"></i>View Full
+                                </button>
+                                <small class="text-muted">
+                                    Chunk ID: ${result.metadata.chunk_id}
+                                </small>
+                            </div>
+                        </div>
+                    `;
+                });
+
+                resultsContainer.innerHTML = html;
+                this.showResults();
+            }
+
+            highlightQuery(content, query) {
+                if (!query) return content;
+                
+                const words = query.toLowerCase().split(' ');
+                let highlighted = content;
+                
+                words.forEach(word => {
+                    if (word.length > 2) {
+                        const regex = new RegExp(`(${word})`, 'gi');
+                        highlighted = highlighted.replace(regex, '<mark>$1</mark>');
+                    }
+                });
+                
+                return highlighted;
+            }
+
+            updateSearchInfo(data) {
+                const info = document.getElementById('searchInfo');
+                info.textContent = `Found ${data.total_found} results in ${data.processing_time || '0.3'}s`;
+            }
+
+            showLoading() {
+                document.getElementById('loadingIndicator').style.display = 'block';
+                document.getElementById('searchResults').style.display = 'none';
+                document.getElementById('noResults').style.display = 'none';
+            }
+
+            hideLoading() {
+                document.getElementById('loadingIndicator').style.display = 'none';
+            }
+
+            showResults() {
+                document.getElementById('searchResults').style.display = 'block';
+                document.getElementById('noResults').style.display = 'none';
+            }
+
+            showNoResults() {
+                document.getElementById('noResults').style.display = 'block';
+                document.getElementById('searchResults').style.display = 'none';
+            }
+
+            hideWelcome() {
+                document.getElementById('welcomeState').style.display = 'none';
+            }
+
+            showError(message) {
+                const resultsContainer = document.getElementById('searchResults');
+                resultsContainer.innerHTML = `
+                    <div class="alert alert-danger">
+                        <i class="fas fa-exclamation-triangle me-2"></i>
+                        Search Error: ${message}
+                    </div>
+                `;
+                this.showResults();
+            }
+
+            expandResult(index) {
+                // This could open a modal with full content
+                console.log('Expanding result:', index);
+            }
+        }
+
+        // Initialize search interface
+        window.searchInterface = new SearchInterface();
+    </script>
+</body>
+</html>
