@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "name": "ai-conversation-analyzer",
+  "builds": [
+    {
+      "src": "demo/app.py",
+      "use": "@vercel/python"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/static/(.*)",
+      "dest": "/demo/static/$1"
+    },
+    {
+      "src": "/(.*)",
+      "dest": "demo/app.py"
+    }
+  ],
+  "env": {
+    "FLASK_ENV": "production"
+  },
+  "functions": {
+    "demo/app.py": {
+      "runtime": "python3.9"
+    }
+  }
+}

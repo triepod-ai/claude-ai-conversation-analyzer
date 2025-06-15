@@ -33,9 +33,9 @@ except ImportError as e:
         @property
         def demo_mode(self): return True
         @property
-        def mock_data_path(self): return '/home/bryan/apps/ai-conversation-analyzer/data/mock_conversations.json'
+        def mock_data_path(self): return os.path.join(os.path.dirname(os.path.dirname(__file__)), 'data', 'mock_conversations.json')
         @property
-        def chunks_data_path(self): return '/home/bryan/apps/ai-conversation-analyzer/data/conversation_chunks.json'
+        def chunks_data_path(self): return os.path.join(os.path.dirname(os.path.dirname(__file__)), 'data', 'conversation_chunks.json')
         @property
         def secret_key(self): return 'portfolio-demo-key'
         @property
@@ -47,7 +47,7 @@ except ImportError as e:
         @property
         def log_level(self): return 'INFO'
         @property
-        def log_file(self): return '/home/bryan/apps/ai-conversation-analyzer/logs/app.log'
+        def log_file(self): return os.path.join(os.path.dirname(os.path.dirname(__file__)), 'logs', 'app.log')
         @property
         def max_search_results(self): return 50
     
@@ -83,16 +83,19 @@ def load_demo_data():
     global demo_stats
     
     try:
+        # Get the base directory
+        base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+        
         # Load conversations
-        with open('/home/bryan/apps/ai-conversation-analyzer/data/mock_conversations.json', 'r') as f:
+        with open(os.path.join(base_dir, 'data', 'mock_conversations.json'), 'r') as f:
             conversations = json.load(f)
         
         # Load chunks
-        with open('/home/bryan/apps/ai-conversation-analyzer/data/conversation_chunks.json', 'r') as f:
+        with open(os.path.join(base_dir, 'data', 'conversation_chunks.json'), 'r') as f:
             chunks = json.load(f)
         
         # Load performance metrics
-        with open('/home/bryan/apps/ai-conversation-analyzer/data/demo_performance_metrics.json', 'r') as f:
+        with open(os.path.join(base_dir, 'data', 'demo_performance_metrics.json'), 'r') as f:
             perf_data = json.load(f)
         
         # Calculate stats
@@ -288,7 +291,8 @@ def api_health():
 def api_performance():
     """Performance metrics endpoint"""
     try:
-        with open('/home/bryan/apps/ai-conversation-analyzer/data/demo_performance_metrics.json', 'r') as f:
+        base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+        with open(os.path.join(base_dir, 'data', 'demo_performance_metrics.json'), 'r') as f:
             perf_data = json.load(f)
         
         # Add real-time simulation
@@ -302,12 +306,12 @@ def api_performance():
     except Exception as e:
         return jsonify({'error': f'Performance data unavailable: {str(e)}'}), 500
 
+# Load demo data on startup
+conversations, chunks = load_demo_data()
+
 if __name__ == '__main__':
     print("🚀 AI Conversation Analyzer - Portfolio Demo")
     print("=" * 60)
-    
-    # Load demo data
-    conversations, chunks = load_demo_data()
     
     if conversations and chunks:
         print(f"✅ Loaded {len(conversations)} conversations")
@@ -326,3 +330,7 @@ if __name__ == '__main__':
     else:
         print("❌ Failed to load demo data. Please check data files.")
         sys.exit(1)
+
+# Vercel serverless handler
+def handler(request):
+    return app(request.environ, lambda status, headers: None)
