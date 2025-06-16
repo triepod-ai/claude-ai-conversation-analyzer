@@ -182,3 +182,4 @@ screenshots/test_*
 
 # Demo data backups
 data/backup_*
+.vercel
