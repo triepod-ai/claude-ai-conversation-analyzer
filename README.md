@@ -1,20 +1,15 @@
-# Claude AI Conversation Analyzer
+# My Claude Conversation API
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![Flask](https://img.shields.io/badge/Flask-2.0+-green.svg)](https://flask.palletsprojects.com/)
 [![ChromaDB](https://img.shields.io/badge/ChromaDB-Latest-purple.svg)](https://www.trychroma.com/)
 [![Claude AI](https://img.shields.io/badge/Claude%20AI-Integrated-orange.svg)](https://claude.ai/)
-[![Docker](https://img.shields.io/badge/Docker-Ready-blue.svg)](https://www.docker.com/)
-[![GitHub Stars](https://img.shields.io/github/stars/yourusername/claude-ai-conversation-analyzer?style=social)](https://github.com/yourusername/claude-ai-conversation-analyzer)
-[![GitHub Forks](https://img.shields.io/github/forks/yourusername/claude-ai-conversation-analyzer?style=social)](https://github.com/yourusername/claude-ai-conversation-analyzer/fork)
-[![Portfolio](https://img.shields.io/badge/Portfolio-AI%2FML%20Engineer-brightgreen.svg)](https://github.com/yourusername)
-[![Performance](https://img.shields.io/badge/Performance-398.4%20conv%2Fs-red.svg)](docs/PERFORMANCE.md)
-[![Uptime](https://img.shields.io/badge/Uptime-99.9%25-brightgreen.svg)](docs/PERFORMANCE.md)
+[![MCP](https://img.shields.io/badge/MCP-Tool%20Ready-purple.svg)](https://modelcontextprotocol.io/)
 
-> **Advanced Claude AI conversation analysis system with semantic search and intelligent categorization**
+> **Personal Claude AI conversation knowledge base with MCP tool integration**
 
-A production-scale semantic search and conversation analysis platform specifically designed for Claude AI project exports. Processes conversations at **398.4 conversations/second** with zero error rate, intelligently categorizing and enabling semantic search across all your Claude AI interactions. Built with modern AI/ML technologies including vector embeddings, intelligent categorization, and real-time performance monitoring.
+Production-ready API for searching over 1+ years of personal Claude AI conversation history. Intelligently categorizes and enables semantic search across all your Claude interactions, accessible via MCP tools for seamless integration with Claude Code and other MCP-compatible applications. Built with vector embeddings, conversation reconstruction, and high-performance search capabilities.
 
 ## 🚀 Key Achievements
 
@@ -28,21 +23,29 @@ A production-scale semantic search and conversation analysis platform specifical
 
 ## 🎯 Features
 
+### MCP Tool Integration
+- **Claude Code Ready**: 5 MCP tools for seamless integration with Claude Code
+- **claude_search**: Semantic search through your personal conversation history
+- **claude_find_conversations**: Find entire conversations containing specific content
+- **claude_reconstruct_conversation**: Rebuild full conversations from chunks
+- **claude_list_conversations**: Browse available conversations with metadata
+- **claude_search_stats**: Database statistics and filter options
+
 ### Core Capabilities
-- **Claude AI Integration**: Native support for Claude AI project.json and conversations.json exports
+- **Personal Knowledge Base**: Transform 1+ years of Claude conversations into searchable knowledge
 - **Semantic Search**: Vector-based similarity matching using ChromaDB optimized for Claude conversations
 - **Smart Categorization**: ML-powered automatic content classification (9 categories) for Claude interactions
-- **Stream Processing**: High-speed Claude conversation chunking and analysis
-- **Real-time Monitoring**: Performance metrics and Claude conversation processing tracking
-- **Interactive UI**: Modern web interface designed for Claude AI conversation exploration
+- **Conversation Reconstruction**: Rebuild complete conversation threads from individual chunks
+- **Multiple Data Sources**: Support for projects.json, individual conversations, and bulk imports
+- **Export Capabilities**: JSON, CSV, Markdown, and text export formats
 
 ### Technical Highlights
-- **Claude AI Native**: Purpose-built for Claude AI conversation data formats
+- **MCP Protocol**: Full Model Context Protocol server implementation
 - **Production-Scale Architecture**: Handles 46,000+ Claude conversation chunks
 - **Vector Database Integration**: ChromaDB for efficient similarity search across Claude conversations
 - **Intelligent Chunking**: Optimized text segmentation for Claude conversation context (1200 chars, 200 overlap)
-- **Category Intelligence**: Automatic classification of Claude conversations across business/technical domains
-- **RESTful API**: Clean, documented endpoints for all Claude conversation analysis functionality
+- **Category Intelligence**: Automatic classification across 9 professional content domains
+- **Flexible Deployment**: HTTP server or embedded ChromaDB options
 
 ## 🏗️ Architecture
 
@@ -79,56 +82,126 @@ A production-scale semantic search and conversation analysis platform specifical
 
 ## 🚀 Quick Start
 
-### Using Docker (Recommended)
+### 1. Setup Environment
 
 ```bash
-# Clone the repository
-git clone https://github.com/yourusername/claude-ai-conversation-analyzer.git
-cd claude-ai-conversation-analyzer
+cd /home/bryan/apps/my-claude-conversation-api
 
-# Start with Docker Compose
-docker-compose up -d
+# Create virtual environment
+uv venv
+source .venv/bin/activate
 
-# Access the application
-open http://localhost:5000
-```
-
-### Local Development
-
-```bash
 # Install dependencies
-pip install -r requirements.txt
-
-# Set up environment
-cp .env.example .env
-# Edit .env with your configuration
-
-# Run the application
-python demo/app.py
+uv pip install -r requirements.txt
+uv pip install mcp  # For MCP server functionality
 ```
 
-## 🎮 Demo
+### 2. Import Your Claude Data
 
-Experience the live demo at: [Claude AI Conversation Analyzer Demo](http://localhost:5000)
+```bash
+# Import projects.json export from Claude
+python3 setup_personal_claude_data.py --json_file /path/to/your/projects.json
 
-### Demo Features
-- **Interactive Search**: Try semantic search across sample Claude AI conversations
-- **Performance Dashboard**: View real-time Claude conversation processing metrics
-- **Architecture Viewer**: Explore the Claude AI integration system design
-- **Category Analysis**: See intelligent Claude conversation classification in action
+# Or import individual conversation files
+python3 setup_personal_claude_data.py --conversation_file /path/to/conversation.json
+
+# Or bulk import from directory
+python3 setup_personal_claude_data.py --data_dir /path/to/claude_exports/
+```
+
+### 3. Test Search Functionality
+
+```bash
+# Interactive search mode
+python3 src/search/semantic_search.py --interactive
+
+# Direct search with filters
+python3 src/search/semantic_search.py --query "machine learning" --category technical_development
+```
+
+### 4. Start MCP Server for Claude Code
+
+```bash
+# Start the MCP server
+python3 mcp-tools/mcp_server.py
+
+# Configure in Claude Code with provided JSON configuration
+```
+
+## 🔧 MCP Tools Available
+
+### claude_search
+Search through your personal conversation history with semantic search and filtering.
+
+```python
+# Usage in Claude Code
+results = await claude_search(
+    query="performance optimization techniques",
+    n_results=10,
+    category="technical_development",
+    similarity_threshold=0.7
+)
+```
+
+### claude_find_conversations
+Find entire conversations containing specific content.
+
+```python
+conversations = await claude_find_conversations(
+    query="microservices architecture",
+    limit=20
+)
+```
+
+### claude_reconstruct_conversation
+Get the complete conversation by UUID for detailed analysis.
+
+```python
+full_conversation = await claude_reconstruct_conversation(
+    conversation_uuid="your-conversation-uuid"
+)
+```
+
+### claude_list_conversations
+Browse all available conversations with metadata.
+
+```python
+conversation_list = await claude_list_conversations(limit=50)
+```
+
+### claude_search_stats
+Get database statistics and available filter options.
+
+```python
+stats = await claude_search_stats()
+```
+
+## 🎮 Testing & Demo
 
 ### Sample Queries to Try
 - "machine learning optimization techniques"
-- "microservices architecture patterns"
-- "data pipeline performance analysis"
-- "agile project management strategies"
+- "microservices architecture patterns" 
+- "database design best practices"
+- "API security implementation"
+- "project management strategies"
+
+### Interactive Demo
+```bash
+# Start interactive search mode
+python3 src/search/semantic_search.py --interactive
+
+# Try searches with filters
+category:technical_development database optimization
+source:conversation claude assistance
+```
 
 ## 📖 Documentation
 
+- [**Setup Guide**](SETUP_GUIDE.md) - Complete setup and configuration instructions
+- [**MCP Configuration**](mcp-tools/claude_search_mcp.json) - MCP server configuration for Claude Code
 - [**Architecture Guide**](docs/ARCHITECTURE.md) - System design and component overview
 - [**Performance Analysis**](docs/PERFORMANCE.md) - Detailed benchmark results
 - [**API Reference**](docs/API_REFERENCE.md) - Complete API documentation
-- [**Deployment Guide**](docs/DEPLOYMENT.md) - Production deployment instructions
 
 ## 🔧 Configuration
 

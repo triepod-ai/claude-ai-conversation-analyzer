@@ -1,0 +1,15 @@
+{
+  "timestamp": 1750615085.0362475,
+  "test_environment": {
+    "redis_available": true,
+    "chromadb_available": true,
+    "python_version": "3.11.2 (main, Nov 30 2024, 21:22:50) [GCC 12.2.0]",
+    "platform": "linux"
+  },
+  "performance_metrics": [],
+  "summary": {
+    "total_tests": 0,
+    "acceptable_performance": 0,
+    "average_overhead_us": 0
+  }
+}

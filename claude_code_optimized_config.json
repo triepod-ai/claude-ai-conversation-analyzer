@@ -1,0 +1,17 @@
+{
+  "mcpServers": {
+    "claude-search-optimized": {
+      "command": "python3",
+      "args": [
+        "/home/bryan/apps/my-claude-conversation-api/mcp-tools/mcp_server_optimized.py"
+      ],
+      "env": {
+        "PYTHONPATH": "/home/bryan/apps/my-claude-conversation-api:/home/bryan/apps/my-claude-conversation-api/src",
+        "CHROMA_CACHE_POLICY": "LRU",
+        "CHROMA_MAX_WORKERS": "4",
+        "CHROMA_MEMORY_LIMIT": "1073741824",
+        "REDIS_URL": "redis://localhost:6379/0"
+      }
+    }
+  }
+}

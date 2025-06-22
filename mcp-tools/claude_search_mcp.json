@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "claude-search-enhanced": {
+      "command": "/home/bryan/apps/my-claude-conversation-api/.venv/bin/python",
+      "args": ["/home/bryan/apps/my-claude-conversation-api/mcp-tools/mcp_server.py"],
+      "env": {
+        "PYTHONPATH": "/home/bryan/apps/my-claude-conversation-api"
+      },
+      "description": "Enhanced Claude conversation search with comprehensive tool descriptions following MCP best practices. Provides semantic search, conversation discovery, reconstruction, and database statistics with advanced filtering, usage examples, and performance optimization guidance."
+    }
+  }
+}

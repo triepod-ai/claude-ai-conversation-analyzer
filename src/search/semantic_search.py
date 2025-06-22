@@ -33,6 +33,9 @@ except ImportError as e:
     sys.exit(1)
 
 # Local imports
+import sys
+from pathlib import Path
+sys.path.append(str(Path(__file__).parent.parent / 'ai'))
 from conversation_reconstructor import ConversationReconstructor
 
 @dataclass

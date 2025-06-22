@@ -1,0 +1,20 @@
+{
+  "thread_test": {
+    "breaking_point": "not_found",
+    "failure_mode": "survived_all_tests",
+    "details": "Handled up to 1000 threads",
+    "execution_time": 0
+  },
+  "payload_test": {
+    "breaking_point": "not_found",
+    "failure_mode": "survived_all_sizes",
+    "details": "Handled up to 100MB",
+    "operation_time": 0
+  },
+  "sustained_test": {
+    "breaking_point": 456000,
+    "failure_mode": "time_limit_reached",
+    "details": "Ran for 60s successfully",
+    "ops_per_sec": 7591.097666930175
+  }
+}
