@@ -1,0 +1,82 @@
+[
+  {
+    "id": "demo-conv-001",
+    "title": "Getting Started with Claude Code",
+    "created_at": "2024-12-15T10:30:00Z",
+    "project": "claude-code-tutorial", 
+    "messages": [
+      {
+        "role": "user",
+        "content": "How do I set up Claude Code for the first time?"
+      },
+      {
+        "role": "assistant", 
+        "content": "To set up Claude Code for the first time:\n\n1. Install the CLI: `npm install -g @anthropic-ai/claude-code`\n2. Authenticate: `claude-code auth login`\n3. Create your first project: `claude-code init my-project`\n4. Start coding with AI assistance!\n\nClaude Code provides powerful tools for code analysis, generation, and debugging."
+      }
+    ]
+  },
+  {
+    "id": "demo-conv-002", 
+    "title": "MCP Server Setup Tutorial",
+    "created_at": "2024-12-16T14:22:00Z",
+    "project": "mcp-integration",
+    "messages": [
+      {
+        "role": "user",
+        "content": "I want to create an MCP server for my project. What are the key components?"
+      },
+      {
+        "role": "assistant",
+        "content": "An MCP (Model Context Protocol) server needs these key components:\n\n1. **Server Implementation**: Handle stdio communication\n2. **Tools Definition**: Define available functions with schemas\n3. **Request Handlers**: Process tool calls and return results\n4. **Error Handling**: Robust error management\n5. **Configuration**: Easy setup for Claude Code integration\n\nExample structure:\n```python\nfrom mcp import Server\n\nserver = Server(\"my-mcp-server\")\n\n@server.tool()\ndef search_docs(query: str) -> str:\n    # Implementation here\n    return results\n```"
+      }
+    ]
+  },
+  {
+    "id": "demo-conv-003",
+    "title": "Semantic Search Implementation", 
+    "created_at": "2024-12-17T09:15:00Z",
+    "project": "search-engine",
+    "messages": [
+      {
+        "role": "user",
+        "content": "How can I implement semantic search for my conversation database?"
+      },
+      {
+        "role": "assistant",
+        "content": "To implement semantic search for conversations:\n\n1. **Vector Database**: Use ChromaDB or similar\n```python\nimport chromadb\nclient = chromadb.Client()\ncollection = client.create_collection(\"conversations\")\n```\n\n2. **Text Embedding**: Convert text to vectors\n```python\nfrom sentence_transformers import SentenceTransformer\nmodel = SentenceTransformer('all-MiniLM-L6-v2')\nembeddings = model.encode(texts)\n```\n\n3. **Similarity Search**: Find relevant conversations\n```python\nresults = collection.query(\n    query_texts=[query],\n    n_results=10\n)\n```\n\nThis enables finding conversations by meaning, not just keywords."
+      }
+    ]
+  },
+  {
+    "id": "demo-conv-004",
+    "title": "Performance Optimization Strategies",
+    "created_at": "2024-12-18T16:45:00Z", 
+    "project": "optimization",
+    "messages": [
+      {
+        "role": "user",
+        "content": "My search is too slow with large datasets. How can I optimize performance?"
+      },
+      {
+        "role": "assistant",
+        "content": "Here are key performance optimization strategies:\n\n1. **Caching Layer**:\n```python\nimport redis\ncache = redis.Redis(host='localhost', port=6379)\n# Cache search results for frequent queries\n```\n\n2. **Connection Pooling**:\n```python\nfrom chromadb.config import Settings\nsettings = Settings(chroma_db_impl=\"duckdb+parquet\")\n```\n\n3. **Batch Processing**:\n```python\n# Process multiple queries together\nresults = collection.query(\n    query_texts=batch_queries,\n    n_results=10\n)\n```\n\n4. **Indexing**: Ensure proper database indexing\n5. **Memory Management**: Use streaming for large datasets\n\nThese optimizations can achieve 10x performance improvements."
+      }
+    ]
+  },
+  {
+    "id": "demo-conv-005",
+    "title": "Advanced Search Features",
+    "created_at": "2024-12-19T11:30:00Z",
+    "project": "advanced-search", 
+    "messages": [
+      {
+        "role": "user",
+        "content": "I need fuzzy matching and business vocabulary expansion in my search. How do I implement this?"
+      },
+      {
+        "role": "assistant", 
+        "content": "Advanced search features implementation:\n\n1. **Fuzzy Matching**:\n```python\nfrom fuzzywuzzy import fuzz\n\ndef fuzzy_expand_query(query, threshold=80):\n    variations = []\n    # Add spelling variations\n    for term in query.split():\n        variations.extend(get_similar_terms(term, threshold))\n    return variations\n```\n\n2. **Business Vocabulary Expansion**:\n```python\nbusiness_synonyms = {\n    'exit strategies': ['severance negotiation', 'departure planning', 'transition strategy'],\n    'consulting': ['advisory', 'strategic guidance', 'professional services']\n}\n\ndef expand_business_terms(query):\n    expanded_queries = [query]\n    for term, synonyms in business_synonyms.items():\n        if term in query.lower():\n            for synonym in synonyms:\n                expanded_queries.append(query.replace(term, synonym))\n    return expanded_queries\n```\n\n3. **Multi-Query Search**:\n```python\ndef enhanced_search(query, enable_fuzzy=True, enable_business_expansion=True):\n    queries = [query]\n    \n    if enable_fuzzy:\n        queries.extend(fuzzy_expand_query(query))\n    \n    if enable_business_expansion:\n        queries.extend(expand_business_terms(query))\n    \n    # Search with all query variations\n    all_results = []\n    for q in queries[:4]:  # Limit to top 4 variations\n        results = collection.query(query_texts=[q], n_results=5)\n        all_results.extend(results)\n    \n    return deduplicate_and_rank(all_results)\n```\n\nThis provides human-friendly search with 95%+ spelling tolerance."
+      }
+    ]
+  }
+]
